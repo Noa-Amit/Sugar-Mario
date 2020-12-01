@@ -6,7 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class GoToNextLevel : MonoBehaviour
 {
+    [SerializeField] string triggingTag;
     private void OnTriggerEnter2D(Collider2D collision) {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);  
+        if(triggingTag == collision.tag){
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);  
+        }
     }
 }

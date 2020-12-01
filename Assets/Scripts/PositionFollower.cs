@@ -9,6 +9,8 @@ public class PositionFollower: MonoBehaviour{
 
     // NOTE: FixedUpdate should be used for all updates related to rigid bodies or the physics engine.
     private void FixedUpdate() {
-        transform.position = new Vector3(objectToFollow.transform.position.x, transform.position.y, transform.position.z);
+        transform.position = new Vector3(objectToFollow.transform.position.x, 
+                                            transform.position.y, 
+                                            transform.position.z);
     }
 }
