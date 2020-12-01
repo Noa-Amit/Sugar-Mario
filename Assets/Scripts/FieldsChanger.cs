@@ -31,9 +31,13 @@ public class FieldsChanger : MonoBehaviour
             sugarField.AddToNumber(lostOnJump);
         }
 
-        if(sugarField.sugar <= 35 || sugarField.sugar >= 150){ //check if sugar too low or high
+        if(sugarField.sugar <= 35 || sugarField.sugar >= 250){ //check if sugar too low or high
             lifeField.SubLife();
             sugarField.Init();
+        }
+
+        if (lifeField.numLife == 0) { //check if out of life
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);  
         }
     }
 }
