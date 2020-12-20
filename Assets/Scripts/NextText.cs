@@ -4,36 +4,12 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
 using UnityEngine.Events;
+using UnityEngine.UI;
 
-public class NextText : MonoBehaviour, IPointerClickHandler, IPointerDownHandler, IPointerUpHandler
+public class NextText : MonoBehaviour
 {
-
-
-    public void OnPointerClick(PointerEventData eventData)
+    public void Test()
     {
-        Debug.Log("hey");
-      //  MyOwnEventTriggered();
-    }
-
-    public void OnPointerDown(PointerEventData eventData)
-    {
-    }
-
-    public void OnPointerUp(PointerEventData eventData)
-    {
-    }
-
-
-    //my event
-    [Serializable]
-    public class MyOwnEvent : UnityEvent { }
-
-    [SerializeField]
-    private MyOwnEvent myOwnEvent = new MyOwnEvent();
-    public MyOwnEvent onMyOwnEvent { get { return myOwnEvent; } set { myOwnEvent = value; } }
-
-    public void MyOwnEventTriggered()
-    {
-        onMyOwnEvent.Invoke();
+        Debug.Log("ok");
     }
 }
