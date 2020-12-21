@@ -702,6 +702,32 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253577083}
     m_Modifications:
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 70859a71bd95a3f4396f1aee0e523e15,
+        type: 3}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 2.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8471818588314649873, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
         type: 3}
       propertyPath: m_Name
@@ -897,6 +923,32 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3090082}
     m_Modifications:
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 70859a71bd95a3f4396f1aee0e523e15,
+        type: 3}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 2.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8471818588314649873, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
         type: 3}
       propertyPath: m_Name
@@ -1337,7 +1389,7 @@ MonoBehaviour:
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 1372397701}
+  m_renderer: {fileID: 504719710}
   m_maskType: 0
   _SortingLayerID: 0
   _SortingOrder: 0
@@ -1655,6 +1707,32 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 328778545}
     m_Modifications:
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 70859a71bd95a3f4396f1aee0e523e15,
+        type: 3}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 2.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8471818588314649873, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
         type: 3}
       propertyPath: m_Name
@@ -2622,6 +2700,32 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1306901177}
     m_Modifications:
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 70859a71bd95a3f4396f1aee0e523e15,
+        type: 3}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 2.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 2.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8471818588314649872, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8471818588314649873, guid: bbce7548ef9d8e44caf62c0a32cc07c6,
         type: 3}
       propertyPath: m_Name
