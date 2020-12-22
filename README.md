@@ -2,8 +2,7 @@
 
 link to itch.io: https://noa-amit.itch.io/task6-phycics
 
-![WhatsApp Image 2020-12-01 at 23 39 44](https://user-images.githubusercontent.com/57709369/100800089-c0a34e80-342e-11eb-9960-91874483b361.jpeg)
-
+![WhatsApp Image 2020-12-01 at 23 39 44](https://user-images.githubusercontent.com/57709369/100800089-c0a34e80-342e-11eb-9960-91874483b361.jpeg) 
 
 This repository is a basic sugar mario game. 
 The game opens with a brief explanation of the background story and how the game is played.
