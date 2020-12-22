@@ -6,6 +6,21 @@ link to itch.io: https://noa-amit.itch.io/task6-phycics
 
 
 This repository is a basic sugar mario game. 
+The game opens with a brief explanation of the background story and how the game is played.
+
+## The Tutorial
+![WhatsApp Image 2020-12-22 at 15 24 09](https://user-images.githubusercontent.com/57709369/102893297-08cff280-446a-11eb-9ae9-caa80fe6de56.jpeg)
+
+
+The tutorial scene explaine the player how to play.It has all the objects in the game (Mario, enemies, food, etc.). It also has a doctor that explain the game.
+The main object is Bubble- an speech buble with text inside (attached to the doctor).
+Bubble has 3 main objects:
+1. canvas-> button - the button used to Switch between texts in the bubble. It has a script https://github.com/Noa-Amit/Task-6-new/blob/main/Assets/Scripts/NextText.cs
+that when the player press the button, it switch between the texts, and the bolds.
+2. text- every text has an explanation about part of the game. When the explanation is about one of the objects in the screen, there is also a bord (an image of arrow) that points on the specific object (for example, when the text explain the sugar field, there is an arroe point on it).
+3. bold- an object that have an image of an arrow and point about objects in the screen
+
+## The game
 The game has 3 levels with a different difficulty levels.
 Every level has this main objects:
 1. player- Mario
@@ -27,7 +42,3 @@ https://github.com/Noa-Amit/Task-6-new/blob/main/Assets/Scripts/LifeField.cs
 
 9.insulin block- special block that give the player super power! changes the sugar score to be 100.
  
-### The difference between the scenes:
-1. The inital sugar score.level 1- start with 100 points. level 2- start with 150 points. level 3- start with 70 points.In all the scene mario needs to keep the blanace of 100 points.
-
-2. The number of enemies.level 1- has no enemies. level 2- has 3 enemies. level 3- has 5 enemies.
