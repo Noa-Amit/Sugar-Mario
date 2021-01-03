@@ -8,22 +8,7 @@ public class FieldsChanger : MonoBehaviour
     [SerializeField] string enemyTag;
     [SerializeField] SugarField sugarField;
     [SerializeField] LifeField lifeField;
-
-    [Tooltip("How many suager mario lost in walk")]
-    [SerializeField] double lostOnWalk;
-    [Tooltip("How many suager mario lost in jamp")]
-    [SerializeField] double lostOnJump;
-
     private bool isSuperPow = false;
-
-    void Update () {
-        if(Input.GetAxis("Horizontal") != 0){
-            addToSugar(lostOnWalk);
-        }
-        if(Input.GetAxis("Jump") != 0){
-            addToSugar(lostOnJump);
-        }
-    }
 
 //**** sugar and life changer ****
     public void addToSugar(double value){

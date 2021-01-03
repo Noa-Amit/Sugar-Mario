@@ -7,7 +7,6 @@ public class InsulinGetsSuperPowers : MonoBehaviour{
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
-        	Debug.Log(other.gameObject.name);
         	other.gameObject.GetComponent<FieldsChanger>().getSuperPowers();
             Destroy(gameObject);
         }
