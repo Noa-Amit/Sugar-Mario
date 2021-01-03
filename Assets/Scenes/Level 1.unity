@@ -1811,7 +1811,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 5
   _gravity: 9.81
-  _jump_pulse: 3
+  _jump_pulse: 2
+  lostOnWalk: -0.02
+  lostOnJump: -0.03
 --- !u!114 &1632214782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1827,8 +1829,6 @@ MonoBehaviour:
   enemyTag: Enemy
   sugarField: {fileID: 319200616}
   lifeField: {fileID: 85537685026609579}
-  lostOnWalk: -0.02
-  lostOnJump: -0.03
 --- !u!50 &1632214783
 Rigidbody2D:
   serializedVersion: 4
