@@ -219,6 +219,7 @@ GameObject:
   m_Component:
   - component: {fileID: 218335387}
   - component: {fileID: 218335388}
+  - component: {fileID: 218335389}
   m_Layer: 5
   m_Name: SugarBar
   m_TagString: Untagged
@@ -245,7 +246,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00000059605, y: -0.0000011921}
+  m_AnchoredPosition: {x: -219.39, y: -133.78}
   m_SizeDelta: {x: 50.22458, y: 7.447281}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &218335388
@@ -291,13 +292,56 @@ MonoBehaviour:
   m_FillRect: {fileID: 1824769313}
   m_HandleRect: {fileID: 0}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 35
+  m_MaxValue: 250
   m_WholeNumbers: 0
-  m_Value: 0.208
+  m_Value: 120
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &218335389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218335386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d5d9c18ce1a094cb9a98e2750852a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slider: {fileID: 218335388}
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0.94509804, g: 0.1339365, b: 0.11764705, a: 1}
+    key1: {r: 0.87504804, g: 0.9528302, b: 0, a: 1}
+    key2: {r: 0, g: 0.9716981, b: 0.17168781, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 12914
+    ctime1: 49537
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 1
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  fill: {fileID: 1824769314}
 --- !u!1001 &319200613
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1438,7 +1482,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: -1.5, y: 0}
+  m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: 12, y: 12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1244540603
@@ -1454,7 +1498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.047169805, g: 0.044499815, b: 0.044499815, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -2401,7 +2445,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.06648275, g: 0.7830189, b: 0.10419555, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:

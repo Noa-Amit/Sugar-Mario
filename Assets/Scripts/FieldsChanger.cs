@@ -16,7 +16,7 @@ public class FieldsChanger : MonoBehaviour
 
     private bool isSuperPow = false;
 
-    private void Update () {
+    void Update () {
         if(Input.GetAxis("Horizontal") != 0){
             addToSugar(lostOnWalk);
         }
