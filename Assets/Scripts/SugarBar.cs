@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HealthBar : MonoBehaviour
+public class SugarBar: MonoBehaviour
 {
 
 	public Slider slider;
@@ -24,11 +24,4 @@ public class HealthBar : MonoBehaviour
 
 		fill.color = gradient.Evaluate(slider.normalizedValue);
 	}
-
-	void Update (){
-		if(Input.GetAxis("Jump") !=0 ){
-            SetHealth((int)slider.value - 10);
-        }
-	}
-
 }
