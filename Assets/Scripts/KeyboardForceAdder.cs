@@ -28,7 +28,7 @@ public class KeyboardForceAdder : MonoBehaviour {
 
     [SerializeField] float _speed = 5f;
     [SerializeField] float _gravity = 9.81f;
-    [SerializeField] float _jump_pulse = 10f;
+    [SerializeField] float _jump_pulse = 3f;
 
     // private void Update() {
     //     // Keyboard events are tested each frame, so we should check them here.
@@ -43,7 +43,7 @@ public class KeyboardForceAdder : MonoBehaviour {
     private void FixedUpdate() {
         float x = Input.GetAxis("Horizontal");
         velocity.x = x * _speed;
-        if (Input.GetButtonDown("Jump")) {
+        if (Input.GetAxis("Jump") != 0) {
             velocity += new Vector3(Input.GetAxis("Horizontal"), _jump_pulse);
         }
         if (!td.IsTouching()) {
