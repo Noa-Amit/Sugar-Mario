@@ -66,5 +66,5 @@ public class FieldsChanger : MonoBehaviour
         yield return new WaitForSecondsRealtime(10);
         isSuperPow = false;
     }
-////////
+
 }
