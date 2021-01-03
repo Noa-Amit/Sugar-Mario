@@ -769,7 +769,7 @@ GameObject:
   - component: {fileID: 504719709}
   - component: {fileID: 504719708}
   m_Layer: 0
-  m_Name: hearts
+  m_Name: lifes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3200,7 +3200,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.44, y: 2.3}
+  m_AnchoredPosition: {x: -7.66, y: 2.3}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1315684279
@@ -4316,9 +4316,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8db85eb6bf6bab3419d784d9a3033049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkForce: 25
-  jumpImpulse: 20
-  slowDownAtJump: 0.467
+  _speed: 3.5
+  _gravity: 9.81
+  _jump_pulse: 10
 --- !u!114 &1632214782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4415,7 +4415,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1632214779}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.56, y: -3.94, z: 0}
+  m_LocalPosition: {x: -25.56, y: -3.8, z: 0}
   m_LocalScale: {x: 0.6284183, y: 0.55070895, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
