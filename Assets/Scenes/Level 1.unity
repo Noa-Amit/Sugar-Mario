@@ -2679,6 +2679,12 @@ PrefabInstance:
       propertyPath: changeSugarOnTrigger
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 4588970013145872248, guid: 9b895d1915491104a9584094c25d401d,
+        type: 3}
+      propertyPath: floatingText
+      value: 
+      objectReference: {fileID: 2228601995089792183, guid: 83e9fbfa0a403524c82aef4d27500166,
+        type: 3}
     - target: {fileID: 4588970013145872250, guid: 9b895d1915491104a9584094c25d401d,
         type: 3}
       propertyPath: m_LocalPosition.x
