@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4588970013145872251}
   m_Layer: 0
   m_Name: IceCream
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   triggeringTag: Player
   sugarField: {fileID: 0}
-  lostOnTrigger: -0.5
+  changeSugarOnTrigger: 0
 --- !u!60 &4588970013145872255
 PolygonCollider2D:
   m_ObjectHideFlags: 0

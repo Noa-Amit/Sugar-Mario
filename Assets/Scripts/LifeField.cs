@@ -10,25 +10,29 @@ using UnityEngine;
 [RequireComponent(typeof(TextMeshPro))]
 public class LifeField : MonoBehaviour {
     private TextMeshPro textField;
-    [SerializeField] public int numLife;
+    [SerializeField] public int InitLife;
+    private int life;
 
     void Start(){
+        life = InitLife;
         textField = GetComponent<TextMeshPro>();
-        textField.text = numLife.ToString();
+        textField.text = life.ToString();
     }
     public void AddLife(int newNumber) {
-        this.numLife = newNumber;
-        this.textField.text = numLife.ToString();
+        this.life = newNumber;
+        this.textField.text = life.ToString();
     }
 
     public void AddLife() {
-        this.numLife++;
-        this.textField.text = numLife.ToString();
+        this.life++;
+        this.textField.text = life.ToString();
     }
 
     public void SubLife() {
-        this.numLife--;
-        this.textField.text = numLife.ToString();
+        this.life--;
+        this.textField.text = life.ToString();
     }
+
+    public int GetLife(){return this.life;}
 
 }

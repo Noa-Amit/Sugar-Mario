@@ -1,13 +1,12 @@
 ﻿using UnityEngine;
 
 public class Collectible : MonoBehaviour{
-    [SerializeField] string triggeringTag = null;
-    [SerializeField] SugarField sugarField = null;
+    [SerializeField] string triggeringTag;
     [SerializeField] double changeSugarOnTrigger;
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
-            sugarField.AddToNumber(changeSugarOnTrigger);
+        	other.gameObject.GetComponent<FieldsChanger>().addToSugar(changeSugarOnTrigger);
             Destroy(gameObject);
         }
     }

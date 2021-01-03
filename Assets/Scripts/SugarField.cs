@@ -12,7 +12,9 @@ using UnityEngine;
 public class SugarField : MonoBehaviour {
     private TextMeshPro textField;
     [SerializeField] public double initSugar;
-    public double sugar;
+    [SerializeField] public double maxSugarAllowed;
+    [SerializeField] public double minSugarAllowed;
+    private double sugar;
 
     void Start(){
         textField = GetComponent<TextMeshPro>();
@@ -33,5 +35,14 @@ public class SugarField : MonoBehaviour {
     public void Init() {
         sugar = initSugar;
         this.textField.text = ((int)sugar).ToString();
+    }
+
+    public double GetSugar(){ return sugar;}
+
+    public bool isValid(){//check if sugar too low or high
+        if(sugar <= minSugarAllowed || sugar >= maxSugarAllowed){
+            return false;
+        }
+        return true;
     }
 }
