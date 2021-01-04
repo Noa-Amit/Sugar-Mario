@@ -5,34 +5,65 @@
  */
 [RequireComponent(typeof(TouchDetector))]
 public class KeyboardMover : MonoBehaviour {
-    private TouchDetector td;
-    private Vector3 velocity;
+    //serialize
+    public Animator animator;
     [SerializeField] float _speed = 5f;
     [SerializeField] float _gravity = 9.81f;
-    [SerializeField] float _jump_pulse = 3f;
+    [SerializeField] float _jump_pulse = 5f;
 
     [Tooltip("How many sugar mario lost in walk")]
     [SerializeField] double lostOnWalk = -0.02;
     [Tooltip("How many sugar mario lost in jamp")]
     [SerializeField] double lostOnJump = -0.03;
 
+    //private
+    private Vector3 velocity;
+    private TouchDetector td;
+    private FieldsChanger fc;
+    // private ImageChanger ic;
+
+
     void Start() {
         td = GetComponent<TouchDetector>();
+        fc = GetComponent<FieldsChanger>();
+        // ic = GetComponent<ImageChanger>();
     }
 
     private void FixedUpdate() {
-        if(Input.GetAxis("Horizontal") != 0){
-            GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
-        }
-        float x = Input.GetAxis("Horizontal");
-        velocity.x = x * _speed;
-        if (Input.GetAxis("Jump") !=0) {
-            velocity += new Vector3(Input.GetAxis("Horizontal"), _jump_pulse);
-            GetComponent<FieldsChanger>().addToSugar(lostOnJump);
-        }
         if (!td.IsTouching()) {
+            // Debug.Log("4");
+            // ic.Jump();
+            animator.SetBool("isJumping", true);
             velocity.y -= _gravity*Time.deltaTime;
         }
+        else {
+            animator.SetBool("isJumping", false);
+        }
+        float x = Input.GetAxis("Horizontal");
+        float y = Input.GetAxis("Jump");
+        velocity.x = x * _speed;
+        velocity.y += y * _jump_pulse;
+        animator.SetFloat("speed",Mathf.Abs(x));
+        // if(x ==0 && y ==0){
+        //     Debug.Log("1");
+        //     // ic.Stay();
+        // }
+        // if(x < 0){
+        //     Debug.Log("2");
+        //     // ic.WalkL();
+        //     fc.addToSugar(lostOnWalk);
+        // }
+        // if(x > 0){
+        //     Debug.Log("2");
+        //     // ic.WalkR();
+        //     fc.addToSugar(lostOnWalk);
+        // }
+        // if(y > 0){
+        //     Debug.Log("3");
+        //     fc.addToSugar(lostOnJump);
+        //     // ic.Jump();
+        // }
+        
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
     }

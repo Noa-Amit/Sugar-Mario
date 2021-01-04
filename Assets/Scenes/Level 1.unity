@@ -131,7 +131,7 @@ PrefabInstance:
     - target: {fileID: 4913552141389898992, guid: b60979de65e98d140aecf10c9e109e5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -32.291866
+      value: -26.56
       objectReference: {fileID: 0}
     - target: {fileID: 4913552141389898992, guid: b60979de65e98d140aecf10c9e109e5a,
         type: 3}
@@ -1869,7 +1869,7 @@ PrefabInstance:
     - target: {fileID: 4913552141389898992, guid: b60979de65e98d140aecf10c9e109e5a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 13.266622
+      value: 12.7
       objectReference: {fileID: 0}
     - target: {fileID: 4913552141389898992, guid: b60979de65e98d140aecf10c9e109e5a,
         type: 3}
@@ -2745,13 +2745,15 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1632214785}
+  - component: {fileID: 1632214788}
   - component: {fileID: 1632214784}
   - component: {fileID: 1632214783}
   - component: {fileID: 1632214786}
   - component: {fileID: 1632214781}
   - component: {fileID: 1632214780}
   - component: {fileID: 1632214782}
+  - component: {fileID: 1632214787}
+  - component: {fileID: 1632214785}
   m_Layer: 9
   m_Name: Mario
   m_TagString: Player
@@ -2787,6 +2789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8db85eb6bf6bab3419d784d9a3033049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 1632214785}
   _speed: 5
   _gravity: 9.81
   _jump_pulse: 2
@@ -2867,31 +2870,36 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 6c0f50ccdfcbe0740992a6bb0aef8646, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b19617396daf5b34bb4eee55bee47aab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.5, y: 3.83}
+  m_Size: {x: 1.64, y: 1.77}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &1632214785
-Transform:
+--- !u!95 &1632214785
+Animator:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1632214779}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.47, y: -4.41, z: 0}
-  m_LocalScale: {x: 0.6284183, y: 0.55070895, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 176526b427f8dce48b99729801fde113, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!70 &1632214786
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2905,9 +2913,36 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 2.4999998, y: 3.83}
-  m_Direction: 1
+  m_Offset: {x: -0.047806263, y: 0.047786713}
+  m_Size: {x: 0.81135845, y: 1.4308043}
+  m_Direction: 0
+--- !u!222 &1632214787
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1632214779}
+  m_CullTransparentMesh: 0
+--- !u!224 &1632214788
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1632214779}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -24.36, y: -4.45}
+  m_SizeDelta: {x: 2.2065954, y: 1.77}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &1639468448 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3601272569542724054, guid: e709046a8925ba44e98a29f122d94d2f,
