@@ -53,6 +53,7 @@ public class KeyboardMover : MonoBehaviour {
         
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
+        GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
     }
 
     void OnColliderEnter (Collider other) {

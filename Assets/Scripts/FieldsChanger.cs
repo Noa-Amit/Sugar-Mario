@@ -8,7 +8,14 @@ public class FieldsChanger : MonoBehaviour
     [SerializeField] string enemyTag;
     [SerializeField] SugarField sugarField;
     [SerializeField] LifeField lifeField;
+    [SerializeField] int timeToPower;
     private bool isSuperPow = false;
+
+    //flashing
+    private bool flashActive;
+    public float flashLength;
+    private float flashCounter;
+    private SpriteRenderer playerSprite;
 
 //**** sugar and life changer ****
     public void addToSugar(double value){
@@ -25,6 +32,7 @@ public class FieldsChanger : MonoBehaviour
     }
     public void subLife(){
         if(!isSuperPow){
+            flashPlayer();
             lifeField.SubLife();
             validLife();
         }
@@ -34,10 +42,9 @@ public class FieldsChanger : MonoBehaviour
     }
     private void validSugar(){
         if(!sugarField.isValid()){ 
-            lifeField.SubLife();
+            subLife();
             sugarField.Init();
         }
-        validLife();//we did subLife so we nood to check
     }
     private void validLife(){
         if (lifeField.GetLife() == 0) { //check if out of life
@@ -52,8 +59,33 @@ public class FieldsChanger : MonoBehaviour
     private IEnumerator changeSuperPow (){
         isSuperPow = true;
         transform.GetChild(0).gameObject.SetActive(true);
-        yield return new WaitForSecondsRealtime(10);
+        yield return new WaitForSecondsRealtime(timeToPower);
         isSuperPow = false;
         transform.GetChild(0).gameObject.SetActive(false);
+    }
+//**** flashing *****
+    private void flashPlayer(){
+        flashActive = true;
+        flashCounter = flashLength;
+    }
+
+    void Start(){
+        playerSprite = GetComponent<SpriteRenderer>();
+    }
+
+    void Update(){
+        if(flashActive){
+            if(flashCounter > flashLength * .66f){
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+            } else if(flashCounter > flashLength * .33f){
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+            } else if(flashCounter > 0f) {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+            } else {
+                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+                flashActive = false;
+            }
+            flashCounter -= Time.deltaTime;
+        }
     }
 }

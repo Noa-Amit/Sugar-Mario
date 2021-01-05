@@ -8,7 +8,6 @@ public class EnemyTrigger : MonoBehaviour
     private bool isTriggBody = false;
 
     private void OnCollisionEnter2D(Collision2D other) {
-        Debug.Log("enter");
         if (other.gameObject.tag == triggeringTag && !transform.GetChild(0).gameObject.GetComponent<DestroyEnemy>().GetTriggHead()) {
             isTriggBody = true;
             other.gameObject.GetComponent<FieldsChanger>().subLife();
@@ -16,7 +15,6 @@ public class EnemyTrigger : MonoBehaviour
     }
 
     private void OnCollisionExit2D(Collision2D other) {
-        Debug.Log("exit");
         if (other.gameObject.tag == triggeringTag) {
             isTriggBody = false;
         }
