@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyTrigger : MonoBehaviour
 {
     [SerializeField] string triggeringTag;
-    public bool isTrigg = false;
+    private bool isTrigg = false;
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
@@ -19,5 +19,7 @@ public class EnemyTrigger : MonoBehaviour
             isTrigg = false;
         }
     }
+
+    public bool getTrigg(){return isTrigg;}
 
 }
