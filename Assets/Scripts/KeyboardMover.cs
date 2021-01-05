@@ -19,7 +19,6 @@ public class KeyboardMover : MonoBehaviour {
     //private
     private Vector3 velocity;
     private TouchDetector td;
-    private float __speed;
     private FieldsChanger fc;
     // private ImageChanger ic;
 
@@ -27,15 +26,13 @@ public class KeyboardMover : MonoBehaviour {
     void Start() {
         td = GetComponent<TouchDetector>();
         fc = GetComponent<FieldsChanger>();
-        // ic = GetComponent<ImageChanger>();
-        __speed = _speed;
     }
 
     private void FixedUpdate() {
         
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Jump");
-        velocity.x = x * __speed;
+        velocity.x = x * _speed;
         velocity.y += y * _jump_pulse;
         
         if(x < 0) GetComponent<SpriteRenderer>().flipX = true;
@@ -54,20 +51,6 @@ public class KeyboardMover : MonoBehaviour {
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
         GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
-    }
-
-    void OnColliderEnter (Collider other) {
-        if(other.tag == "Enemy"){
-            Debug.Log("enter");
-            __speed = 0;
-        }
-    }
-
-    void OnColliderExit (Collider other) {
-        if(other.tag == "Enemy"){
-            Debug.Log("exit");
-            __speed = _speed;
-        }
     }
     
 }
