@@ -7,22 +7,24 @@ public class DestroyEnemy : MonoBehaviour
     [SerializeField] string triggeringTag;
     [SerializeField] Animator animator;
     GameObject enemy;
-    bool isKilled;
+    bool isTriggHead;
 
     void Start (){
         enemy = gameObject.transform.parent.gameObject;
-        isKilled = false;
+        isTriggHead = false;
     }
 
     private void OnTriggerEnter2D(Collider2D other) {
-        if (other.tag == triggeringTag && !enemy.GetComponent<EnemyTrigger>().getTrigg() && !isKilled) {
-            isKilled = true;
+        if (other.tag == triggeringTag && !enemy.GetComponent<EnemyTrigger>().getTriggBody()) {
+            isTriggHead = true;
+            enemy.GetComponent<EnemyMover>().StopMoving();
             animator.SetBool("is_crash",true);
             StartCoroutine(killEnemy());
         }
     }
     private IEnumerator killEnemy (){
-        yield return new WaitForSecondsRealtime(3);
+        yield return new WaitForSecondsRealtime(1);
         Destroy(enemy);
     }
+    public bool GetTriggHead(){return isTriggHead;}
 }

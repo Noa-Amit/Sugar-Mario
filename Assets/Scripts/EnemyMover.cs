@@ -35,4 +35,8 @@ public class EnemyMover : MonoBehaviour{
     	}
 
     }
+
+    public void StopMoving(){
+    	speed = 0;
+    }
 }

@@ -19,6 +19,7 @@ public class KeyboardMover : MonoBehaviour {
     //private
     private Vector3 velocity;
     private TouchDetector td;
+    private float __speed;
     private FieldsChanger fc;
     // private ImageChanger ic;
 
@@ -27,45 +28,45 @@ public class KeyboardMover : MonoBehaviour {
         td = GetComponent<TouchDetector>();
         fc = GetComponent<FieldsChanger>();
         // ic = GetComponent<ImageChanger>();
+        __speed = _speed;
     }
 
     private void FixedUpdate() {
+        
+        float x = Input.GetAxis("Horizontal");
+        float y = Input.GetAxis("Jump");
+        velocity.x = x * __speed;
+        velocity.y += y * _jump_pulse;
+        
+        if(x < 0) GetComponent<SpriteRenderer>().flipX = true;
+        else GetComponent<SpriteRenderer>().flipX = false;
+
+        animator.SetFloat("speed",Mathf.Abs(x));
+        
         if (!td.IsTouching()) {
-            // Debug.Log("4");
-            // ic.Jump();
             animator.SetBool("isJumping", true);
             velocity.y -= _gravity*Time.deltaTime;
         }
         else {
             animator.SetBool("isJumping", false);
         }
-        float x = Input.GetAxis("Horizontal");
-        float y = Input.GetAxis("Jump");
-        velocity.x = x * _speed;
-        velocity.y += y * _jump_pulse;
-        animator.SetFloat("speed",Mathf.Abs(x));
-        // if(x ==0 && y ==0){
-        //     Debug.Log("1");
-        //     // ic.Stay();
-        // }
-        // if(x < 0){
-        //     Debug.Log("2");
-        //     // ic.WalkL();
-        //     fc.addToSugar(lostOnWalk);
-        // }
-        // if(x > 0){
-        //     Debug.Log("2");
-        //     // ic.WalkR();
-        //     fc.addToSugar(lostOnWalk);
-        // }
-        // if(y > 0){
-        //     Debug.Log("3");
-        //     fc.addToSugar(lostOnJump);
-        //     // ic.Jump();
-        // }
         
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
+    }
+
+    void OnColliderEnter (Collider other) {
+        if(other.tag == "Enemy"){
+            Debug.Log("enter");
+            __speed = 0;
+        }
+    }
+
+    void OnColliderExit (Collider other) {
+        if(other.tag == "Enemy"){
+            Debug.Log("exit");
+            __speed = _speed;
+        }
     }
     
 }
