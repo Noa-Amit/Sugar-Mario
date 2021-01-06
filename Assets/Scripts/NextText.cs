@@ -15,10 +15,11 @@ public class NextText : MonoBehaviour
     {
         textNum = 1;
         bubble = gameObject.transform.root.gameObject;
-        string name = "Text" + (textNum++);
+        string name = "Text" + (textNum);
         string boldName = "Bold" + (textNum);
         currentText = bubble.transform.Find(name).gameObject;
         currentBold = bubble.transform.Find(boldName).gameObject;
+        textNum++;
     }
     public void Test()
     {
@@ -26,11 +27,11 @@ public class NextText : MonoBehaviour
         Debug.Log(currentBold.name);
         currentText.SetActive(false);
         currentBold.SetActive(false);
-        string name = "Text" + (textNum++);
+        string name = "Text" + (textNum);
         string boldName = "Bold" + (textNum);
         Debug.Log(name);
         Debug.Log(boldName);
-        if (textNum <= 11)
+        if (textNum < 11)
         {
             currentText = bubble.transform.Find(name).gameObject;
             currentBold = bubble.transform.Find(boldName).gameObject;
@@ -41,6 +42,7 @@ public class NextText : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
+        textNum++;
 
     }
 }
