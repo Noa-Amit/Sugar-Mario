@@ -12565,11 +12565,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1431701084}
-  _speed: 5
+  _speed: 10
   _gravity: 9.81
   _jump_pulse: 2
   lostOnWalk: -0.02
   lostOnJump: -0.03
+  max_y: 2.52
 --- !u!70 &1431701089
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

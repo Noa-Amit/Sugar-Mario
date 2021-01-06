@@ -20,8 +20,7 @@ public class KeyboardMover : MonoBehaviour {
     private Vector3 velocity;
     private TouchDetector td;
     private FieldsChanger fc;
-    // private ImageChanger ic;
-
+    public float max_y = 2.52f;
 
     void Start() {
         td = GetComponent<TouchDetector>();
@@ -29,27 +28,27 @@ public class KeyboardMover : MonoBehaviour {
     }
 
     private void FixedUpdate() {
-        
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Jump");
-        velocity.x = x * _speed;
-        velocity.y += y * _jump_pulse;
-        
+
         if(x < 0) GetComponent<SpriteRenderer>().flipX = true;
         else GetComponent<SpriteRenderer>().flipX = false;
 
-        animator.SetFloat("speed",Mathf.Abs(x));
+        velocity.x = x * _speed;
+        if(y != 0 && transform.position.y + (y * _jump_pulse) < max_y){
+            velocity.y += y * _jump_pulse;
+        }
         
         if (!td.IsTouching()) {
-            animator.SetBool("isJumping", true);
             velocity.y -= _gravity*Time.deltaTime;
         }
-        else {
-            animator.SetBool("isJumping", false);
-        }
+
+        animator.SetFloat("speed", Mathf.Abs(x));
+        animator.SetBool("isJumping", !td.IsTouching());
         
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
+
         GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
     }
     
