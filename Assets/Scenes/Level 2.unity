@@ -3595,7 +3595,9 @@ PrefabInstance:
     - target: {fileID: 4439646188292368797, guid: a19a3aa8dfce93b408d25d730886310f,
         type: 3}
       propertyPath: m_text
-      value: 1
+      value: '2
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 6691453953979306196, guid: a19a3aa8dfce93b408d25d730886310f,
         type: 3}
@@ -6334,7 +6336,7 @@ PrefabInstance:
     - target: {fileID: 4439646188292368797, guid: a19a3aa8dfce93b408d25d730886310f,
         type: 3}
       propertyPath: m_text
-      value: 100
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 6691453953979306196, guid: a19a3aa8dfce93b408d25d730886310f,
         type: 3}
@@ -11765,7 +11767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4656c0ed910b61e41ba893f36f90fdef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initSugar: 100
+  initSugar: 180
   maxSugarAllowed: 250
   minSugarAllowed: 35
 --- !u!1001 &1366469673
