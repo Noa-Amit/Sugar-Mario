@@ -35,8 +35,8 @@ public class KeyboardMover : MonoBehaviour {
         else GetComponent<SpriteRenderer>().flipX = false;
 
         velocity.x = x * _speed;
-        if(y != 0 && transform.position.y + (y * _jump_pulse) < max_y){
-            velocity.y += y * _jump_pulse;
+        if(y != 0 && (transform.position.y + _jump_pulse) < max_y){
+            velocity.y += _jump_pulse;
         }
         
         if (!td.IsTouching()) {
