@@ -1,0 +1,6986 @@
+fileFormatVersion: 2
+guid: 2487081ef259f3d43beaec61f4030599
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5701734786284138188
+    second: enemies-removebg-preview_0
+  - first:
+      213: 1347129067038700268
+    second: enemies-removebg-preview_1
+  - first:
+      213: 1749139140275037320
+    second: enemies-removebg-preview_2
+  - first:
+      213: 2857599660451903981
+    second: enemies-removebg-preview_3
+  - first:
+      213: -4027560398994341038
+    second: enemies-removebg-preview_4
+  - first:
+      213: 6932700926252158497
+    second: enemies-removebg-preview_5
+  - first:
+      213: -295670467851880741
+    second: enemies-removebg-preview_6
+  - first:
+      213: -3511102915771688441
+    second: enemies-removebg-preview_7
+  - first:
+      213: 5408505181063984724
+    second: enemies-removebg-preview_8
+  - first:
+      213: 5081361788950365310
+    second: enemies-removebg-preview_9
+  - first:
+      213: 3230676561842765231
+    second: enemies-removebg-preview_10
+  - first:
+      213: 2424915815756593908
+    second: enemy_walk1
+  - first:
+      213: 512001568474668581
+    second: enemy_walk2
+  - first:
+      213: 79358297940186254
+    second: enemy_crash
+  - first:
+      213: -8442566326823828792
+    second: enemies-removebg-preview_14
+  - first:
+      213: -3229309735152932212
+    second: enemies-removebg-preview_15
+  - first:
+      213: -933900050305893969
+    second: enemies-removebg-preview_16
+  - first:
+      213: 4486261630714308259
+    second: enemies-removebg-preview_17
+  - first:
+      213: 6492028310037531740
+    second: enemies-removebg-preview_18
+  - first:
+      213: 4396393735703979603
+    second: enemies-removebg-preview_19
+  - first:
+      213: 7079728845500122307
+    second: enemies-removebg-preview_20
+  - first:
+      213: 3942371459556334818
+    second: enemies-removebg-preview_21
+  - first:
+      213: -3969394852645969463
+    second: enemies-removebg-preview_22
+  - first:
+      213: -8242026394107031215
+    second: enemies-removebg-preview_23
+  - first:
+      213: 8607236170964399713
+    second: enemies-removebg-preview_24
+  - first:
+      213: -3895006751779879514
+    second: enemies-removebg-preview_25
+  - first:
+      213: 2368669324655412878
+    second: enemies-removebg-preview_26
+  - first:
+      213: -5398592617209407885
+    second: enemies-removebg-preview_27
+  - first:
+      213: -5029488812143128933
+    second: enemies-removebg-preview_28
+  - first:
+      213: 2605726289590442890
+    second: enemies-removebg-preview_29
+  - first:
+      213: -2609463536442353127
+    second: enemies-removebg-preview_30
+  - first:
+      213: -7261527543760836798
+    second: enemies-removebg-preview_31
+  - first:
+      213: -8336494928574539885
+    second: enemies-removebg-preview_32
+  - first:
+      213: 865708019501534276
+    second: enemies-removebg-preview_33
+  - first:
+      213: 397852593794801602
+    second: enemies-removebg-preview_34
+  - first:
+      213: 2928738602845786544
+    second: enemies-removebg-preview_35
+  - first:
+      213: 6230002803698607706
+    second: enemies-removebg-preview_36
+  - first:
+      213: -7370354103510637049
+    second: enemies-removebg-preview_37
+  - first:
+      213: 9077008373500830329
+    second: enemies-removebg-preview_38
+  - first:
+      213: -4769655342505806695
+    second: enemies-removebg-preview_39
+  - first:
+      213: -5174449206120269271
+    second: enemies-removebg-preview_40
+  - first:
+      213: 3382355497715857410
+    second: enemies-removebg-preview_41
+  - first:
+      213: 7444741248841419168
+    second: enemies-removebg-preview_42
+  - first:
+      213: 2508543703453132107
+    second: enemies-removebg-preview_43
+  - first:
+      213: -222737460475765107
+    second: enemies-removebg-preview_44
+  - first:
+      213: 4444110964837883450
+    second: enemies-removebg-preview_45
+  - first:
+      213: -8824121832462130482
+    second: enemies-removebg-preview_46
+  - first:
+      213: 5152640351142346288
+    second: enemies-removebg-preview_47
+  - first:
+      213: 8867256883299033874
+    second: enemies-removebg-preview_48
+  - first:
+      213: -8520517877331903724
+    second: enemies-removebg-preview_49
+  - first:
+      213: 5260800762149245802
+    second: enemies-removebg-preview_50
+  - first:
+      213: 3652280555812572990
+    second: enemies-removebg-preview_51
+  - first:
+      213: 6340358715704061660
+    second: enemies-removebg-preview_52
+  - first:
+      213: -7528019064502703782
+    second: enemies-removebg-preview_53
+  - first:
+      213: -8337920238511123625
+    second: enemies-removebg-preview_54
+  - first:
+      213: -4640955165879209136
+    second: enemies-removebg-preview_55
+  - first:
+      213: 5783669960854611990
+    second: enemies-removebg-preview_56
+  - first:
+      213: 1999402842845129028
+    second: enemies-removebg-preview_57
+  - first:
+      213: 6031223675313095340
+    second: enemies-removebg-preview_58
+  - first:
+      213: 4022611588745954887
+    second: enemies-removebg-preview_59
+  - first:
+      213: 6725482059341995449
+    second: enemies-removebg-preview_60
+  - first:
+      213: 6864588433731818854
+    second: enemies-removebg-preview_61
+  - first:
+      213: -264898274848369122
+    second: enemies-removebg-preview_62
+  - first:
+      213: 6389857728958612756
+    second: enemies-removebg-preview_63
+  - first:
+      213: -5061152344482565250
+    second: enemies-removebg-preview_64
+  - first:
+      213: 4394377550039931428
+    second: enemies-removebg-preview_65
+  - first:
+      213: 4783724286633128536
+    second: enemies-removebg-preview_66
+  - first:
+      213: 469762290870256091
+    second: enemies-removebg-preview_67
+  - first:
+      213: -986309404366829324
+    second: enemies-removebg-preview_68
+  - first:
+      213: -8177338189074639762
+    second: enemies-removebg-preview_69
+  - first:
+      213: -4014893321959077085
+    second: enemies-removebg-preview_70
+  - first:
+      213: -4637099916836725574
+    second: enemies-removebg-preview_71
+  - first:
+      213: -3715795965518392956
+    second: enemies-removebg-preview_72
+  - first:
+      213: -647813636817902086
+    second: enemies-removebg-preview_73
+  - first:
+      213: -637082796547142390
+    second: enemies-removebg-preview_74
+  - first:
+      213: 663523224057814553
+    second: enemies-removebg-preview_75
+  - first:
+      213: 7802100895387188736
+    second: enemies-removebg-preview_76
+  - first:
+      213: -5058355008069025627
+    second: enemies-removebg-preview_77
+  - first:
+      213: 953866589017915472
+    second: enemies-removebg-preview_78
+  - first:
+      213: -7429959973568845814
+    second: enemies-removebg-preview_79
+  - first:
+      213: -2639519808243043352
+    second: enemies-removebg-preview_80
+  - first:
+      213: 319444270979312848
+    second: enemies-removebg-preview_81
+  - first:
+      213: 7342653366966503616
+    second: enemies-removebg-preview_82
+  - first:
+      213: -1223988927320397060
+    second: enemies-removebg-preview_83
+  - first:
+      213: -2916988875196325516
+    second: enemies-removebg-preview_84
+  - first:
+      213: 5968974338946169646
+    second: enemies-removebg-preview_85
+  - first:
+      213: -7179950702482847544
+    second: enemies-removebg-preview_86
+  - first:
+      213: -1359213136441268839
+    second: enemies-removebg-preview_87
+  - first:
+      213: -2694597735103047353
+    second: enemies-removebg-preview_88
+  - first:
+      213: -8418205045891550908
+    second: enemies-removebg-preview_89
+  - first:
+      213: 7035798317335194533
+    second: enemies-removebg-preview_90
+  - first:
+      213: -73343170329268712
+    second: enemies-removebg-preview_91
+  - first:
+      213: -4312201315884663757
+    second: enemies-removebg-preview_92
+  - first:
+      213: -1003790337434885715
+    second: enemies-removebg-preview_93
+  - first:
+      213: -2134634568859165385
+    second: enemies-removebg-preview_94
+  - first:
+      213: 7807730346031639245
+    second: enemies-removebg-preview_95
+  - first:
+      213: 120544101446100353
+    second: enemies-removebg-preview_96
+  - first:
+      213: 8979034141121533917
+    second: enemies-removebg-preview_97
+  - first:
+      213: 8385694607807022524
+    second: enemies-removebg-preview_98
+  - first:
+      213: 7919580971777599735
+    second: enemies-removebg-preview_99
+  - first:
+      213: 6772281756417135369
+    second: enemies-removebg-preview_100
+  - first:
+      213: -8414157489613164431
+    second: enemies-removebg-preview_101
+  - first:
+      213: 386096308552719839
+    second: enemies-removebg-preview_102
+  - first:
+      213: -5630073535879526775
+    second: enemies-removebg-preview_103
+  - first:
+      213: 7954453613393847907
+    second: enemies-removebg-preview_104
+  - first:
+      213: 8832529497828905716
+    second: enemies-removebg-preview_105
+  - first:
+      213: -187425057937960469
+    second: enemies-removebg-preview_106
+  - first:
+      213: -2340425977157373220
+    second: enemies-removebg-preview_107
+  - first:
+      213: -2366662150951738001
+    second: enemies-removebg-preview_108
+  - first:
+      213: 3011639044172476964
+    second: enemies-removebg-preview_109
+  - first:
+      213: -2423920685096565872
+    second: enemies-removebg-preview_110
+  - first:
+      213: 8853955080141118610
+    second: enemies-removebg-preview_111
+  - first:
+      213: -8306054993159858935
+    second: enemies-removebg-preview_112
+  - first:
+      213: 3953593393750470414
+    second: enemies-removebg-preview_113
+  - first:
+      213: -7405811248999086298
+    second: enemies-removebg-preview_114
+  - first:
+      213: 6266437055581584121
+    second: enemies-removebg-preview_115
+  - first:
+      213: 4090766634148318134
+    second: enemies-removebg-preview_116
+  - first:
+      213: 3018252424298127692
+    second: enemies-removebg-preview_117
+  - first:
+      213: 1187301720811416795
+    second: enemies-removebg-preview_118
+  - first:
+      213: 2243679630371186006
+    second: enemies-removebg-preview_119
+  - first:
+      213: 7379152346062893007
+    second: enemies-removebg-preview_120
+  - first:
+      213: 6950828503893445118
+    second: enemies-removebg-preview_121
+  - first:
+      213: -6199200387023817095
+    second: enemies-removebg-preview_122
+  - first:
+      213: 8437963127870530272
+    second: enemies-removebg-preview_123
+  - first:
+      213: -6742447653548605734
+    second: enemies-removebg-preview_124
+  - first:
+      213: -2190967944843151041
+    second: enemies-removebg-preview_125
+  - first:
+      213: -2182917735944907039
+    second: enemies-removebg-preview_126
+  - first:
+      213: 7854424710107206461
+    second: enemies-removebg-preview_127
+  - first:
+      213: 3283218036186926872
+    second: enemies-removebg-preview_128
+  - first:
+      213: 529846955966515944
+    second: enemies-removebg-preview_129
+  - first:
+      213: 3099498650601054506
+    second: enemies-removebg-preview_130
+  - first:
+      213: -627527544451656385
+    second: enemies-removebg-preview_131
+  - first:
+      213: -7975609979718019422
+    second: enemies-removebg-preview_132
+  - first:
+      213: 3426119936226932259
+    second: enemies-removebg-preview_133
+  - first:
+      213: -3976374418789757725
+    second: enemies-removebg-preview_134
+  - first:
+      213: -5017336064563262888
+    second: enemies-removebg-preview_135
+  - first:
+      213: -5339400552831647368
+    second: enemies-removebg-preview_136
+  - first:
+      213: -377973573869506753
+    second: enemies-removebg-preview_137
+  - first:
+      213: 3298059841715439075
+    second: enemies-removebg-preview_138
+  - first:
+      213: -8785662456765971641
+    second: enemies-removebg-preview_139
+  - first:
+      213: 1726807727312084292
+    second: enemies-removebg-preview_140
+  - first:
+      213: 5214578581197108781
+    second: enemies-removebg-preview_141
+  - first:
+      213: 7736232053592037814
+    second: enemies-removebg-preview_142
+  - first:
+      213: 6237759335230157942
+    second: enemies-removebg-preview_143
+  - first:
+      213: 4855888248090130183
+    second: enemies-removebg-preview_144
+  - first:
+      213: 7321480186942130257
+    second: enemies-removebg-preview_145
+  - first:
+      213: 5754483778347778004
+    second: enemies-removebg-preview_146
+  - first:
+      213: -7983482408140433521
+    second: enemies-removebg-preview_147
+  - first:
+      213: -7643562248300185840
+    second: enemies-removebg-preview_148
+  - first:
+      213: -1343025496510098445
+    second: enemies-removebg-preview_149
+  - first:
+      213: -8632653653152130319
+    second: enemies-removebg-preview_150
+  - first:
+      213: -4798468543106961097
+    second: enemies-removebg-preview_151
+  - first:
+      213: -3940447652267520471
+    second: enemies-removebg-preview_152
+  - first:
+      213: 6185753169323143017
+    second: enemies-removebg-preview_153
+  - first:
+      213: -53088063481254779
+    second: enemies-removebg-preview_154
+  - first:
+      213: -4879530689899925904
+    second: enemies-removebg-preview_155
+  - first:
+      213: -4077732485582247120
+    second: enemies-removebg-preview_156
+  - first:
+      213: 4247159468504588863
+    second: enemies-removebg-preview_157
+  - first:
+      213: -5950586999820561064
+    second: enemies-removebg-preview_158
+  - first:
+      213: 7812472874753986940
+    second: enemies-removebg-preview_159
+  - first:
+      213: -4156000698640448792
+    second: enemies-removebg-preview_160
+  - first:
+      213: -9165367847924995954
+    second: enemies-removebg-preview_161
+  - first:
+      213: -3264356384828640893
+    second: enemies-removebg-preview_162
+  - first:
+      213: -711649460825007047
+    second: enemies-removebg-preview_163
+  - first:
+      213: -518582183297841350
+    second: enemies-removebg-preview_164
+  - first:
+      213: 5717557271804137424
+    second: enemies-removebg-preview_165
+  - first:
+      213: 5093842866193590295
+    second: enemies-removebg-preview_166
+  - first:
+      213: 5247473400554226130
+    second: enemies-removebg-preview_167
+  - first:
+      213: -1433800974668306358
+    second: enemies-removebg-preview_168
+  - first:
+      213: -7920141204563491280
+    second: enemies-removebg-preview_169
+  - first:
+      213: 5987916777000747969
+    second: enemies-removebg-preview_170
+  - first:
+      213: 6277799121905081137
+    second: enemies-removebg-preview_171
+  - first:
+      213: -1338203106492177948
+    second: enemies-removebg-preview_172
+  - first:
+      213: 6366399861225470442
+    second: enemies-removebg-preview_173
+  - first:
+      213: -4843064839168703547
+    second: enemies-removebg-preview_174
+  - first:
+      213: 3223309218576552295
+    second: enemies-removebg-preview_175
+  - first:
+      213: -769302695507760343
+    second: enemies-removebg-preview_176
+  - first:
+      213: 3653517558831730603
+    second: enemies-removebg-preview_177
+  - first:
+      213: 4978320046923940787
+    second: enemies-removebg-preview_178
+  - first:
+      213: -7160372594563719330
+    second: enemies-removebg-preview_179
+  - first:
+      213: 5843868007014662777
+    second: enemies-removebg-preview_180
+  - first:
+      213: 2659995263600524353
+    second: enemies-removebg-preview_181
+  - first:
+      213: -2291172789484592566
+    second: enemies-removebg-preview_182
+  - first:
+      213: 602773608075370794
+    second: enemies-removebg-preview_183
+  - first:
+      213: 7793893942985267683
+    second: enemies-removebg-preview_184
+  - first:
+      213: 642346485193096508
+    second: enemies-removebg-preview_185
+  - first:
+      213: 9058890318813177622
+    second: enemies-removebg-preview_186
+  - first:
+      213: 6041849568192829217
+    second: enemies-removebg-preview_187
+  - first:
+      213: 5688068542645472718
+    second: enemies-removebg-preview_188
+  - first:
+      213: -7394513057884912998
+    second: enemies-removebg-preview_189
+  - first:
+      213: -4467981716982948821
+    second: enemies-removebg-preview_190
+  - first:
+      213: -5764364913795227079
+    second: enemies-removebg-preview_191
+  - first:
+      213: -4738590520031128181
+    second: enemies-removebg-preview_192
+  - first:
+      213: -4471780502138943219
+    second: enemies-removebg-preview_193
+  - first:
+      213: -1598032567138455757
+    second: enemies-removebg-preview_194
+  - first:
+      213: 70623029654145191
+    second: enemies-removebg-preview_195
+  - first:
+      213: 6537364764241853398
+    second: enemies-removebg-preview_196
+  - first:
+      213: -4181425315957671177
+    second: enemies-removebg-preview_197
+  - first:
+      213: -2221264817699370254
+    second: enemies-removebg-preview_198
+  - first:
+      213: 6816028957034434761
+    second: enemies-removebg-preview_199
+  - first:
+      213: 611304018189130355
+    second: enemies-removebg-preview_200
+  - first:
+      213: 5543607547871621407
+    second: enemies-removebg-preview_201
+  - first:
+      213: 5855593686522293026
+    second: enemies-removebg-preview_202
+  - first:
+      213: -5580209550766787470
+    second: enemies-removebg-preview_203
+  - first:
+      213: 601413362909459540
+    second: enemies-removebg-preview_204
+  - first:
+      213: 7141138310937542314
+    second: enemies-removebg-preview_205
+  - first:
+      213: -1433687972643451995
+    second: enemies-removebg-preview_206
+  - first:
+      213: -736852123404983312
+    second: enemies-removebg-preview_207
+  - first:
+      213: -5459045142664462639
+    second: enemies-removebg-preview_208
+  - first:
+      213: -2207510259853864940
+    second: enemies-removebg-preview_209
+  - first:
+      213: 6810901544212349664
+    second: enemies-removebg-preview_210
+  - first:
+      213: 5104068507817227853
+    second: enemies-removebg-preview_211
+  - first:
+      213: 4898885469744326812
+    second: enemies-removebg-preview_212
+  - first:
+      213: -1800245910770133239
+    second: enemies-removebg-preview_213
+  - first:
+      213: -2113997792726241228
+    second: enemies-removebg-preview_214
+  - first:
+      213: -6773697708236040331
+    second: enemies-removebg-preview_215
+  - first:
+      213: 8919088616674870530
+    second: enemies-removebg-preview_216
+  - first:
+      213: 999143198481865583
+    second: enemies-removebg-preview_217
+  - first:
+      213: 1833357644215173130
+    second: enemies-removebg-preview_218
+  - first:
+      213: -3793332115830508096
+    second: enemies-removebg-preview_219
+  - first:
+      213: -5642188510252286548
+    second: enemies-removebg-preview_220
+  - first:
+      213: -6862094570444733836
+    second: enemies-removebg-preview_221
+  - first:
+      213: 508437640219561276
+    second: enemies-removebg-preview_222
+  - first:
+      213: 7012290438547909358
+    second: enemies-removebg-preview_223
+  - first:
+      213: 1000498758628957580
+    second: enemies-removebg-preview_224
+  - first:
+      213: 4053028015537761941
+    second: enemies-removebg-preview_225
+  - first:
+      213: 7339978870769788263
+    second: enemies-removebg-preview_226
+  - first:
+      213: -8255772532336405914
+    second: enemies-removebg-preview_227
+  - first:
+      213: 4632747467041226739
+    second: enemies-removebg-preview_228
+  - first:
+      213: 2442192589519390572
+    second: enemies-removebg-preview_229
+  - first:
+      213: 8556822872785588213
+    second: enemies-removebg-preview_230
+  - first:
+      213: -8481830661758001559
+    second: enemies-removebg-preview_231
+  - first:
+      213: 3296189741150834053
+    second: enemies-removebg-preview_232
+  - first:
+      213: 4900131892559581776
+    second: enemies-removebg-preview_233
+  - first:
+      213: 9075110830040177001
+    second: enemies-removebg-preview_234
+  - first:
+      213: -7497923844039791211
+    second: enemies-removebg-preview_235
+  - first:
+      213: 8185042719269733719
+    second: enemies-removebg-preview_236
+  - first:
+      213: -6823198272469693706
+    second: enemies-removebg-preview_237
+  - first:
+      213: -2485378687827774848
+    second: enemies-removebg-preview_238
+  - first:
+      213: -6983798136115770725
+    second: enemies-removebg-preview_239
+  - first:
+      213: 8897917664088724222
+    second: enemies-removebg-preview_240
+  - first:
+      213: 9221947309045582212
+    second: enemies-removebg-preview_241
+  - first:
+      213: -6638710147726497440
+    second: enemies-removebg-preview_242
+  - first:
+      213: -859344886163220874
+    second: enemies-removebg-preview_243
+  - first:
+      213: -4714035163517153084
+    second: enemies-removebg-preview_244
+  - first:
+      213: -852522606648659669
+    second: enemies-removebg-preview_245
+  - first:
+      213: -9026651369131065849
+    second: enemies-removebg-preview_246
+  - first:
+      213: 4944130586194270424
+    second: enemies-removebg-preview_247
+  - first:
+      213: 8415914529989512620
+    second: enemies-removebg-preview_248
+  - first:
+      213: 5982915752057653074
+    second: enemies-removebg-preview_249
+  - first:
+      213: 7605311095083377161
+    second: enemies-removebg-preview_250
+  - first:
+      213: 6591022478924314346
+    second: enemies-removebg-preview_251
+  - first:
+      213: 5841012247803800207
+    second: enemies-removebg-preview_252
+  - first:
+      213: -602313796892649887
+    second: enemies-removebg-preview_253
+  - first:
+      213: 8668903168707946018
+    second: enemies-removebg-preview_254
+  - first:
+      213: 3901601032898037566
+    second: enemies-removebg-preview_255
+  - first:
+      213: -7622286268931245630
+    second: enemies-removebg-preview_256
+  - first:
+      213: 641036284608771204
+    second: enemies-removebg-preview_257
+  - first:
+      213: -4146757152639022286
+    second: enemies-removebg-preview_258
+  - first:
+      213: -6924138284362230186
+    second: enemies-removebg-preview_259
+  - first:
+      213: -3688191358352252312
+    second: enemies-removebg-preview_260
+  - first:
+      213: 1719653355358779319
+    second: enemies-removebg-preview_261
+  - first:
+      213: 5558533360066971053
+    second: enemies-removebg-preview_262
+  - first:
+      213: 4782970531911806163
+    second: enemies-removebg-preview_263
+  - first:
+      213: 7985930920473786955
+    second: enemies-removebg-preview_264
+  - first:
+      213: 2564324832448713455
+    second: enemies-removebg-preview_265
+  - first:
+      213: -5862081930942808986
+    second: enemies-removebg-preview_266
+  - first:
+      213: 190341721325654512
+    second: enemies-removebg-preview_267
+  - first:
+      213: -2267524358794285480
+    second: enemies-removebg-preview_268
+  - first:
+      213: -6638814518182744258
+    second: enemies-removebg-preview_269
+  - first:
+      213: 5700938285242984203
+    second: enemies-removebg-preview_270
+  - first:
+      213: -3354246032409836804
+    second: enemies-removebg-preview_271
+  - first:
+      213: -8122228579820982104
+    second: enemies-removebg-preview_272
+  - first:
+      213: -2159959474722508382
+    second: enemies-removebg-preview_273
+  - first:
+      213: 5858381934652884065
+    second: enemies-removebg-preview_274
+  - first:
+      213: -4311527605172528016
+    second: enemies-removebg-preview_275
+  - first:
+      213: -410787565929625345
+    second: enemies-removebg-preview_276
+  - first:
+      213: -8800875843636405511
+    second: enemies-removebg-preview_277
+  - first:
+      213: 6882614997703399611
+    second: enemies-removebg-preview_278
+  - first:
+      213: -5115589521468519120
+    second: enemies-removebg-preview_279
+  - first:
+      213: -4821509913756358541
+    second: enemies-removebg-preview_280
+  - first:
+      213: -349995412194166225
+    second: enemies-removebg-preview_281
+  - first:
+      213: 2691796689678270280
+    second: enemies-removebg-preview_282
+  - first:
+      213: -3878533913557709373
+    second: enemies-removebg-preview_283
+  - first:
+      213: 3544433375781646033
+    second: enemies-removebg-preview_284
+  - first:
+      213: 3859055898412942076
+    second: enemies-removebg-preview_285
+  - first:
+      213: -6160859252180780964
+    second: enemies-removebg-preview_286
+  - first:
+      213: -1112916328558000466
+    second: enemies-removebg-preview_287
+  - first:
+      213: 3419894545918777693
+    second: enemies-removebg-preview_288
+  - first:
+      213: -1524856855020318929
+    second: enemies-removebg-preview_289
+  - first:
+      213: -1116042931689466445
+    second: enemies-removebg-preview_290
+  - first:
+      213: -6296729078960790334
+    second: enemies-removebg-preview_291
+  - first:
+      213: -4286488153099293549
+    second: enemies-removebg-preview_292
+  - first:
+      213: -4863922693187648821
+    second: enemies-removebg-preview_293
+  - first:
+      213: -8163810711299853156
+    second: enemies-removebg-preview_294
+  - first:
+      213: 597249931565798444
+    second: enemies-removebg-preview_295
+  - first:
+      213: 5006295254747438255
+    second: enemies-removebg-preview_296
+  - first:
+      213: -5314300380485303854
+    second: enemies-removebg-preview_297
+  - first:
+      213: -100951511075141207
+    second: enemies-removebg-preview_298
+  - first:
+      213: 3919790443441436154
+    second: enemies-removebg-preview_299
+  - first:
+      213: -993736457341600567
+    second: enemies-removebg-preview_300
+  - first:
+      213: -428626839654197812
+    second: enemies-removebg-preview_301
+  - first:
+      213: -6631094500733935291
+    second: enemies-removebg-preview_302
+  - first:
+      213: -1326777266636327468
+    second: enemies-removebg-preview_303
+  - first:
+      213: 3994784632832858233
+    second: enemies-removebg-preview_304
+  - first:
+      213: 7968235710692561853
+    second: enemies-removebg-preview_305
+  - first:
+      213: -7373605975506535634
+    second: enemies-removebg-preview_306
+  - first:
+      213: -9174593974253763893
+    second: enemies-removebg-preview_307
+  - first:
+      213: 1433601823786694967
+    second: enemies-removebg-preview_308
+  - first:
+      213: -6525327403185420529
+    second: enemies-removebg-preview_309
+  - first:
+      213: 2470344895573603608
+    second: enemies-removebg-preview_310
+  - first:
+      213: -5675726201320014065
+    second: enemies-removebg-preview_311
+  - first:
+      213: -7303491180216968531
+    second: enemies-removebg-preview_312
+  - first:
+      213: -2792250860105789548
+    second: enemies-removebg-preview_313
+  - first:
+      213: 8377218045682496894
+    second: enemies-removebg-preview_314
+  - first:
+      213: -1419885505756164683
+    second: enemies-removebg-preview_315
+  - first:
+      213: 7432501470672369086
+    second: enemies-removebg-preview_316
+  - first:
+      213: 440936964026547465
+    second: enemies-removebg-preview_317
+  - first:
+      213: 3712869681729456715
+    second: enemies-removebg-preview_318
+  - first:
+      213: -8511301004623829660
+    second: enemies-removebg-preview_319
+  - first:
+      213: 7117387424265053875
+    second: enemies-removebg-preview_320
+  - first:
+      213: -8010317717154885287
+    second: enemies-removebg-preview_321
+  - first:
+      213: 3234464094135697716
+    second: enemies-removebg-preview_322
+  - first:
+      213: 2788312687311348639
+    second: enemies-removebg-preview_323
+  - first:
+      213: 394233597558664906
+    second: enemies-removebg-preview_324
+  - first:
+      213: 7722165574072083844
+    second: enemies-removebg-preview_325
+  - first:
+      213: -393459070811256142
+    second: enemies-removebg-preview_326
+  - first:
+      213: 4029874575580334931
+    second: enemies-removebg-preview_327
+  - first:
+      213: 3597566057838596605
+    second: enemies-removebg-preview_328
+  - first:
+      213: 9046522296619250701
+    second: enemies-removebg-preview_329
+  - first:
+      213: -8516516443627670519
+    second: enemies-removebg-preview_330
+  - first:
+      213: -868450562491922867
+    second: enemies-removebg-preview_331
+  - first:
+      213: 6366457247307939633
+    second: enemies-removebg-preview_332
+  - first:
+      213: -4752300694685168785
+    second: enemies-removebg-preview_333
+  - first:
+      213: 4587538381889586111
+    second: enemies-removebg-preview_334
+  - first:
+      213: 7635365328708535133
+    second: enemies-removebg-preview_335
+  - first:
+      213: -257496710718801187
+    second: enemies-removebg-preview_336
+  - first:
+      213: 125128101827564306
+    second: enemies-removebg-preview_337
+  - first:
+      213: 4367876148205471693
+    second: enemies-removebg-preview_338
+  - first:
+      213: -6331747752245825359
+    second: enemies-removebg-preview_339
+  - first:
+      213: -2459203322121248579
+    second: enemies-removebg-preview_340
+  - first:
+      213: -8106459464365984593
+    second: enemies-removebg-preview_341
+  - first:
+      213: 6484098644597998541
+    second: enemies-removebg-preview_342
+  - first:
+      213: 8533739089064119189
+    second: enemies-removebg-preview_343
+  - first:
+      213: -5549936360217148685
+    second: enemies-removebg-preview_344
+  - first:
+      213: 3863635869829560076
+    second: enemies-removebg-preview_345
+  - first:
+      213: 3179293449672609583
+    second: enemies-removebg-preview_346
+  - first:
+      213: 485501179189486291
+    second: enemies-removebg-preview_347
+  - first:
+      213: -3420457761097632650
+    second: enemies-removebg-preview_348
+  - first:
+      213: -6822389227472791862
+    second: enemies-removebg-preview_349
+  - first:
+      213: 8217787937956790053
+    second: enemies-removebg-preview_350
+  - first:
+      213: 3820783577563074078
+    second: enemies-removebg-preview_351
+  - first:
+      213: -8619939436497281324
+    second: enemies-removebg-preview_352
+  - first:
+      213: -5648983590212260857
+    second: enemies-removebg-preview_353
+  - first:
+      213: -4203705363390452294
+    second: enemies-removebg-preview_354
+  - first:
+      213: 8343177571297084463
+    second: enemies-removebg-preview_355
+  - first:
+      213: -8486125257244593388
+    second: enemies-removebg-preview_356
+  - first:
+      213: 7190891607073655419
+    second: enemies-removebg-preview_357
+  - first:
+      213: 7473320989494312469
+    second: enemies-removebg-preview_358
+  - first:
+      213: 8862377472160846671
+    second: enemies-removebg-preview_359
+  - first:
+      213: -157167100254428255
+    second: enemies-removebg-preview_360
+  - first:
+      213: 5137450643886472192
+    second: enemies-removebg-preview_361
+  - first:
+      213: 1158532044325497625
+    second: enemies-removebg-preview_362
+  - first:
+      213: 2919945295466430734
+    second: enemies-removebg-preview_363
+  - first:
+      213: -1578375251816321765
+    second: enemies-removebg-preview_364
+  - first:
+      213: -3824235630488526024
+    second: enemies-removebg-preview_365
+  - first:
+      213: 2108660269952676137
+    second: enemies-removebg-preview_366
+  - first:
+      213: 4297263281618903709
+    second: enemies-removebg-preview_367
+  - first:
+      213: 7208095138455995944
+    second: enemies-removebg-preview_368
+  - first:
+      213: 255343707584290899
+    second: enemies-removebg-preview_369
+  - first:
+      213: -2380064931685383161
+    second: enemies-removebg-preview_370
+  - first:
+      213: 543441987250225311
+    second: enemies-removebg-preview_371
+  - first:
+      213: -774335489747766101
+    second: enemies-removebg-preview_372
+  - first:
+      213: -732907208488847012
+    second: enemies-removebg-preview_373
+  - first:
+      213: -6752370265063530994
+    second: enemies-removebg-preview_374
+  - first:
+      213: -6540493096434479117
+    second: enemies-removebg-preview_375
+  - first:
+      213: 7032498976043156218
+    second: enemies-removebg-preview_376
+  - first:
+      213: -1865113221735554865
+    second: enemies-removebg-preview_377
+  - first:
+      213: -1570190187328333796
+    second: enemies-removebg-preview_378
+  - first:
+      213: 2533403485581474027
+    second: enemies-removebg-preview_379
+  - first:
+      213: 44823572518432955
+    second: enemies-removebg-preview_380
+  - first:
+      213: -4850199943830819494
+    second: enemies-removebg-preview_381
+  - first:
+      213: -4023282012970337682
+    second: enemies-removebg-preview_382
+  - first:
+      213: -7878291180756803180
+    second: enemies-removebg-preview_383
+  - first:
+      213: 2313658443551485225
+    second: enemies-removebg-preview_384
+  - first:
+      213: -6459666020814026891
+    second: enemies-removebg-preview_385
+  - first:
+      213: -6367536470270407482
+    second: enemies-removebg-preview_386
+  - first:
+      213: -5746531304231321301
+    second: enemies-removebg-preview_387
+  - first:
+      213: -4858917056117751162
+    second: enemies-removebg-preview_388
+  - first:
+      213: -5456154045033247462
+    second: enemies-removebg-preview_389
+  - first:
+      213: -5299347000392916460
+    second: enemies-removebg-preview_390
+  - first:
+      213: -8018223557951480867
+    second: enemies-removebg-preview_391
+  - first:
+      213: 5673907648808913302
+    second: enemies-removebg-preview_392
+  - first:
+      213: -8418407893127766304
+    second: enemies-removebg-preview_393
+  - first:
+      213: -7987173006595874305
+    second: enemies-removebg-preview_394
+  - first:
+      213: 3183636976018417937
+    second: enemies-removebg-preview_395
+  - first:
+      213: -8922177532197743824
+    second: enemies-removebg-preview_396
+  - first:
+      213: 1303428831116312664
+    second: enemies-removebg-preview_397
+  - first:
+      213: -4780537493433788908
+    second: enemies-removebg-preview_398
+  - first:
+      213: 8476344551104831054
+    second: enemies-removebg-preview_399
+  - first:
+      213: 8773530991976361533
+    second: enemies-removebg-preview_400
+  - first:
+      213: -3675757325906375066
+    second: enemies-removebg-preview_401
+  - first:
+      213: 2603878550928157334
+    second: enemies-removebg-preview_402
+  - first:
+      213: -7821044336954042477
+    second: enemies-removebg-preview_403
+  - first:
+      213: 606010734976375187
+    second: enemies-removebg-preview_404
+  - first:
+      213: 4039367605488144840
+    second: enemies-removebg-preview_405
+  - first:
+      213: -2395337233126786305
+    second: enemies-removebg-preview_406
+  - first:
+      213: 9126853167304731803
+    second: enemies-removebg-preview_407
+  - first:
+      213: 6159343404911360391
+    second: enemies-removebg-preview_408
+  - first:
+      213: 6393812650705631850
+    second: enemies-removebg-preview_409
+  - first:
+      213: -5629122760330163074
+    second: enemies-removebg-preview_410
+  - first:
+      213: 6828699938136086605
+    second: enemies-removebg-preview_411
+  - first:
+      213: -2206856784460757058
+    second: enemies-removebg-preview_412
+  - first:
+      213: -4307232284265866630
+    second: enemies-removebg-preview_413
+  - first:
+      213: 836071660868178263
+    second: enemies-removebg-preview_414
+  - first:
+      213: -4602710879557092995
+    second: enemies-removebg-preview_415
+  - first:
+      213: 2118614399078402024
+    second: enemies-removebg-preview_416
+  - first:
+      213: -5455892326954869979
+    second: enemies-removebg-preview_417
+  - first:
+      213: -4048493102597794562
+    second: enemies-removebg-preview_418
+  - first:
+      213: -778885752434873284
+    second: enemies-removebg-preview_419
+  - first:
+      213: 1860797646758628700
+    second: enemies-removebg-preview_420
+  - first:
+      213: 5919173017536966498
+    second: enemies-removebg-preview_421
+  - first:
+      213: 1780563066558059557
+    second: enemies-removebg-preview_422
+  - first:
+      213: 9141540232158606711
+    second: enemies-removebg-preview_423
+  - first:
+      213: 5932384965325596277
+    second: enemies-removebg-preview_424
+  - first:
+      213: 3507025278678944198
+    second: enemies-removebg-preview_425
+  - first:
+      213: -8244549512228237841
+    second: enemies-removebg-preview_426
+  - first:
+      213: -1973523900704772286
+    second: enemies-removebg-preview_427
+  - first:
+      213: 8863820573149302264
+    second: enemies-removebg-preview_428
+  - first:
+      213: -2511857263777468755
+    second: enemies-removebg-preview_429
+  - first:
+      213: -8069129289837594373
+    second: enemies-removebg-preview_430
+  - first:
+      213: -7703202191957407276
+    second: enemies-removebg-preview_431
+  - first:
+      213: 2428254720075911740
+    second: enemies-removebg-preview_432
+  - first:
+      213: -470853052901632072
+    second: enemies-removebg-preview_433
+  - first:
+      213: -2072851135970798882
+    second: enemies-removebg-preview_434
+  - first:
+      213: 7530419271976190273
+    second: enemies-removebg-preview_435
+  - first:
+      213: -67572018688455127
+    second: enemies-removebg-preview_436
+  - first:
+      213: 7106984183506400886
+    second: enemies-removebg-preview_437
+  - first:
+      213: -2537408980314166585
+    second: enemies-removebg-preview_438
+  - first:
+      213: 7070420021832566009
+    second: enemies-removebg-preview_439
+  - first:
+      213: 7019787748431146325
+    second: enemies-removebg-preview_440
+  - first:
+      213: -5145630140736309648
+    second: enemies-removebg-preview_441
+  - first:
+      213: 6749033447995393134
+    second: enemies-removebg-preview_442
+  - first:
+      213: -5964716832932297961
+    second: enemies-removebg-preview_443
+  - first:
+      213: -5044706104372208595
+    second: enemies-removebg-preview_444
+  - first:
+      213: 1749704326305798355
+    second: enemies-removebg-preview_445
+  - first:
+      213: -8775037460319460167
+    second: enemies-removebg-preview_446
+  - first:
+      213: 5963347787067341968
+    second: enemies-removebg-preview_447
+  - first:
+      213: -4376355842683277403
+    second: enemies-removebg-preview_448
+  - first:
+      213: 2247023350954067457
+    second: enemies-removebg-preview_449
+  - first:
+      213: 2811253412942498095
+    second: enemies-removebg-preview_450
+  - first:
+      213: -4146683344713165507
+    second: enemies-removebg-preview_451
+  - first:
+      213: -1006829519412251206
+    second: enemies-removebg-preview_452
+  - first:
+      213: 8368403556510555558
+    second: enemies-removebg-preview_453
+  - first:
+      213: 4499023741963842517
+    second: enemies-removebg-preview_454
+  - first:
+      213: -590658647364450168
+    second: enemies-removebg-preview_455
+  - first:
+      213: 4380480786435168326
+    second: enemies-removebg-preview_456
+  - first:
+      213: -4358095926416350405
+    second: enemies-removebg-preview_457
+  - first:
+      213: -7116619787702678815
+    second: enemies-removebg-preview_458
+  - first:
+      213: 234066380407888929
+    second: enemies-removebg-preview_459
+  - first:
+      213: -592607411648713393
+    second: enemies-removebg-preview_460
+  - first:
+      213: 694874390036168645
+    second: enemies-removebg-preview_461
+  - first:
+      213: 5590388027145634475
+    second: enemies-removebg-preview_462
+  - first:
+      213: 124856130242148869
+    second: enemies-removebg-preview_463
+  - first:
+      213: -5054494938516069027
+    second: enemies-removebg-preview_464
+  - first:
+      213: 6498100730651329959
+    second: enemies-removebg-preview_465
+  - first:
+      213: 1536721088091462792
+    second: enemies-removebg-preview_466
+  - first:
+      213: 7194446707166928
+    second: enemies-removebg-preview_467
+  - first:
+      213: 5429465061330510030
+    second: enemies-removebg-preview_468
+  - first:
+      213: -9123044799451132917
+    second: enemies-removebg-preview_469
+  - first:
+      213: 6979920551717801029
+    second: enemies-removebg-preview_470
+  - first:
+      213: 5135121521656616050
+    second: enemies-removebg-preview_471
+  - first:
+      213: 5628617165608310399
+    second: enemies-removebg-preview_472
+  - first:
+      213: 3442458450885080155
+    second: enemies-removebg-preview_473
+  - first:
+      213: 5235033009670441712
+    second: enemies-removebg-preview_474
+  - first:
+      213: 4231946411475269839
+    second: enemies-removebg-preview_475
+  - first:
+      213: -7997328042049288262
+    second: enemies-removebg-preview_476
+  - first:
+      213: 2506956510898452573
+    second: enemies-removebg-preview_477
+  - first:
+      213: -8458967147692190582
+    second: enemies-removebg-preview_478
+  - first:
+      213: 5745322780251233280
+    second: enemies-removebg-preview_479
+  - first:
+      213: -8436446493104121413
+    second: enemies-removebg-preview_480
+  - first:
+      213: 2752405137588976250
+    second: enemies-removebg-preview_481
+  - first:
+      213: 7198005290649220882
+    second: enemies-removebg-preview_482
+  - first:
+      213: 9030957967776152231
+    second: enemies-removebg-preview_483
+  - first:
+      213: 8799166056271485027
+    second: enemies-removebg-preview_484
+  - first:
+      213: 5214463636497833183
+    second: enemies-removebg-preview_485
+  - first:
+      213: -3457743923886883377
+    second: enemies-removebg-preview_486
+  - first:
+      213: -8981973699515023831
+    second: enemies-removebg-preview_487
+  - first:
+      213: -7465898172128259418
+    second: enemies-removebg-preview_488
+  - first:
+      213: 8319505278762466223
+    second: enemies-removebg-preview_489
+  - first:
+      213: 2169206115209499057
+    second: enemies-removebg-preview_490
+  - first:
+      213: -7659533993404226638
+    second: enemies-removebg-preview_491
+  - first:
+      213: 2698357548966267783
+    second: enemies-removebg-preview_492
+  - first:
+      213: 3865383473467893440
+    second: enemies-removebg-preview_493
+  - first:
+      213: -1813715028900140993
+    second: enemies-removebg-preview_494
+  - first:
+      213: -1431754759594439147
+    second: enemies-removebg-preview_495
+  - first:
+      213: 6533769785681961558
+    second: enemies-removebg-preview_496
+  - first:
+      213: 668616802061649533
+    second: enemies-removebg-preview_497
+  - first:
+      213: 4830757304182440255
+    second: enemies-removebg-preview_498
+  - first:
+      213: -3721303728504941773
+    second: enemies-removebg-preview_499
+  - first:
+      213: 4078024603866980019
+    second: enemies-removebg-preview_500
+  - first:
+      213: -400314771986007811
+    second: enemies-removebg-preview_501
+  - first:
+      213: -3867030064593963968
+    second: enemies-removebg-preview_502
+  - first:
+      213: 4894461692976677545
+    second: enemies-removebg-preview_503
+  - first:
+      213: -1467349290624876444
+    second: enemies-removebg-preview_504
+  - first:
+      213: -607477756217448429
+    second: enemies-removebg-preview_505
+  - first:
+      213: -2574160893190988970
+    second: enemies-removebg-preview_506
+  - first:
+      213: 4205740547531353309
+    second: enemies-removebg-preview_507
+  - first:
+      213: -1907686542145684177
+    second: enemies-removebg-preview_508
+  - first:
+      213: 5230061541216140895
+    second: enemies-removebg-preview_509
+  - first:
+      213: -8240436372170924876
+    second: enemies-removebg-preview_510
+  - first:
+      213: -7734993459028146435
+    second: enemies-removebg-preview_511
+  - first:
+      213: 5252991340090197268
+    second: enemies-removebg-preview_512
+  - first:
+      213: 916157729397869766
+    second: enemies-removebg-preview_513
+  - first:
+      213: 4787365486656020896
+    second: enemies-removebg-preview_514
+  - first:
+      213: 621711064003695272
+    second: enemies-removebg-preview_515
+  - first:
+      213: 2793545309161356227
+    second: enemies-removebg-preview_516
+  - first:
+      213: 2425461586193580954
+    second: enemies-removebg-preview_517
+  - first:
+      213: -3691342862825191210
+    second: enemies-removebg-preview_518
+  - first:
+      213: -2641336271218355628
+    second: enemies-removebg-preview_519
+  - first:
+      213: 2240022185892776744
+    second: enemies-removebg-preview_520
+  - first:
+      213: 7784877533110049229
+    second: enemies-removebg-preview_521
+  - first:
+      213: -7169196116073818147
+    second: enemies-removebg-preview_522
+  - first:
+      213: -8915369460917278347
+    second: enemies-removebg-preview_523
+  - first:
+      213: -4808154299282312388
+    second: enemies-removebg-preview_524
+  - first:
+      213: -5373803565889526404
+    second: enemies-removebg-preview_525
+  - first:
+      213: -119278481801583482
+    second: enemies-removebg-preview_526
+  - first:
+      213: 3587851734340682985
+    second: enemies-removebg-preview_527
+  - first:
+      213: 8885561269706593683
+    second: enemies-removebg-preview_528
+  - first:
+      213: 2099704058966181168
+    second: enemies-removebg-preview_529
+  - first:
+      213: 4727886894386344158
+    second: enemies-removebg-preview_530
+  - first:
+      213: 3600051079391992230
+    second: enemies-removebg-preview_531
+  - first:
+      213: -4160253124278235808
+    second: enemies-removebg-preview_532
+  - first:
+      213: 2004372400578195548
+    second: enemies-removebg-preview_533
+  - first:
+      213: -6466962337574877173
+    second: enemies-removebg-preview_534
+  - first:
+      213: 8085353069485683377
+    second: enemies-removebg-preview_535
+  - first:
+      213: 6688353570309956311
+    second: enemies-removebg-preview_536
+  - first:
+      213: -1715175869170410928
+    second: enemies-removebg-preview_537
+  - first:
+      213: -4434543499148140770
+    second: enemies-removebg-preview_538
+  - first:
+      213: 1726926316912114262
+    second: enemies-removebg-preview_539
+  - first:
+      213: -8844780716631617824
+    second: enemies-removebg-preview_540
+  - first:
+      213: 7845676120558358724
+    second: enemies-removebg-preview_541
+  - first:
+      213: -4112166205573967410
+    second: enemies-removebg-preview_542
+  - first:
+      213: -154869369605877258
+    second: enemies-removebg-preview_543
+  - first:
+      213: -8072998235407218217
+    second: enemies-removebg-preview_544
+  - first:
+      213: 2953736482508975927
+    second: enemies-removebg-preview_545
+  - first:
+      213: 749568514377468852
+    second: enemies-removebg-preview_546
+  - first:
+      213: 8986313000246269674
+    second: enemies-removebg-preview_547
+  - first:
+      213: -5261288153171600047
+    second: enemies-removebg-preview_548
+  - first:
+      213: 8310581382509872507
+    second: enemies-removebg-preview_549
+  - first:
+      213: -2760766135168027922
+    second: enemies-removebg-preview_550
+  - first:
+      213: -6633923364755520985
+    second: enemies-removebg-preview_551
+  - first:
+      213: 6886505205375815169
+    second: enemies-removebg-preview_552
+  - first:
+      213: -1021651713042358024
+    second: enemies-removebg-preview_553
+  - first:
+      213: 1468027650454004319
+    second: enemies-removebg-preview_554
+  - first:
+      213: 2164532701574956455
+    second: enemies-removebg-preview_555
+  - first:
+      213: -4960079317181233786
+    second: enemies-removebg-preview_556
+  - first:
+      213: -3618868997938026083
+    second: enemies-removebg-preview_557
+  - first:
+      213: 950164389320935300
+    second: enemies-removebg-preview_558
+  - first:
+      213: -5822835835122864958
+    second: enemies-removebg-preview_559
+  - first:
+      213: 8439157199036194782
+    second: enemies-removebg-preview_560
+  - first:
+      213: 3240871903604072552
+    second: enemies-removebg-preview_561
+  - first:
+      213: 6871409090118622251
+    second: enemies-removebg-preview_562
+  - first:
+      213: -4205664200778158512
+    second: enemies-removebg-preview_563
+  - first:
+      213: 6911757457998082595
+    second: enemies-removebg-preview_564
+  - first:
+      213: -6999331501046607209
+    second: enemies-removebg-preview_565
+  - first:
+      213: 1595229940742322111
+    second: enemies-removebg-preview_566
+  - first:
+      213: 5191896768199037199
+    second: enemies-removebg-preview_567
+  - first:
+      213: 700483802380535035
+    second: enemies-removebg-preview_568
+  - first:
+      213: -1805256783097378482
+    second: enemies-removebg-preview_569
+  - first:
+      213: -6255388739235091854
+    second: enemies-removebg-preview_570
+  - first:
+      213: 3229240691088929710
+    second: enemies-removebg-preview_571
+  - first:
+      213: -1560072981739298171
+    second: enemies-removebg-preview_572
+  - first:
+      213: -689402164245613250
+    second: enemies-removebg-preview_573
+  - first:
+      213: 1298278136345263010
+    second: enemies-removebg-preview_574
+  - first:
+      213: 1612892908063990525
+    second: enemies-removebg-preview_575
+  - first:
+      213: -7521348724152793456
+    second: enemies-removebg-preview_576
+  - first:
+      213: -3891869188248297662
+    second: enemies-removebg-preview_577
+  - first:
+      213: 5867471330245145553
+    second: enemies-removebg-preview_578
+  - first:
+      213: -2486480088754031167
+    second: enemies-removebg-preview_579
+  - first:
+      213: -8062727270648459726
+    second: enemies-removebg-preview_580
+  - first:
+      213: -1010412569786157877
+    second: enemies-removebg-preview_581
+  - first:
+      213: 2339821576382971983
+    second: enemies-removebg-preview_582
+  - first:
+      213: -8308421682943623254
+    second: enemies-removebg-preview_583
+  - first:
+      213: -7578472748117976330
+    second: enemies-removebg-preview_584
+  - first:
+      213: -6418256961052049917
+    second: enemies-removebg-preview_585
+  - first:
+      213: -73627272765117128
+    second: enemies-removebg-preview_586
+  - first:
+      213: 1662859902527062534
+    second: enemies-removebg-preview_587
+  - first:
+      213: -966578946015953838
+    second: enemies-removebg-preview_588
+  - first:
+      213: -1003484567729849320
+    second: enemies-removebg-preview_589
+  - first:
+      213: -3212177440582145420
+    second: enemies-removebg-preview_590
+  - first:
+      213: -3198712866900048795
+    second: enemies-removebg-preview_591
+  - first:
+      213: 681627999413316866
+    second: enemies-removebg-preview_592
+  - first:
+      213: -3082693200592938665
+    second: enemies-removebg-preview_593
+  - first:
+      213: 6201142492914303850
+    second: enemies-removebg-preview_594
+  - first:
+      213: 5755142411639583658
+    second: enemies-removebg-preview_595
+  - first:
+      213: 33325132342333395
+    second: enemies-removebg-preview_596
+  - first:
+      213: -2472679107053892159
+    second: enemies-removebg-preview_597
+  - first:
+      213: -3638235227919136814
+    second: enemies-removebg-preview_598
+  - first:
+      213: -2074354628348669453
+    second: enemies-removebg-preview_599
+  - first:
+      213: 4426935239842263055
+    second: enemies-removebg-preview_600
+  - first:
+      213: -6751802608728608664
+    second: enemies-removebg-preview_601
+  - first:
+      213: 4450463825948814114
+    second: enemies-removebg-preview_602
+  - first:
+      213: -2328650273732884413
+    second: enemies-removebg-preview_603
+  - first:
+      213: -5827784132951273921
+    second: enemies-removebg-preview_604
+  - first:
+      213: -5099245223203857736
+    second: enemies-removebg-preview_605
+  - first:
+      213: 7890068036291932215
+    second: enemies-removebg-preview_606
+  - first:
+      213: -799815266931931310
+    second: enemies-removebg-preview_607
+  - first:
+      213: 4710212740079160693
+    second: enemies-removebg-preview_608
+  - first:
+      213: -4742366905435898744
+    second: enemies-removebg-preview_609
+  - first:
+      213: -6184752361091599863
+    second: enemies-removebg-preview_610
+  - first:
+      213: 4061625402134201393
+    second: enemies-removebg-preview_611
+  - first:
+      213: 7566062384018502475
+    second: enemies-removebg-preview_612
+  - first:
+      213: 3905908163547846367
+    second: enemies-removebg-preview_613
+  - first:
+      213: 2597551355045956033
+    second: enemies-removebg-preview_614
+  - first:
+      213: 4270173154069849058
+    second: enemies-removebg-preview_615
+  - first:
+      213: 4217217334299170232
+    second: enemies-removebg-preview_616
+  - first:
+      213: 5030400646463495421
+    second: enemies-removebg-preview_617
+  - first:
+      213: 6788318322436056338
+    second: enemies-removebg-preview_618
+  - first:
+      213: 685104666438791518
+    second: enemies-removebg-preview_619
+  - first:
+      213: 4730069257491796676
+    second: enemies-removebg-preview_620
+  - first:
+      213: 1638749185550855472
+    second: enemies-removebg-preview_621
+  - first:
+      213: 4656474417930963230
+    second: enemies-removebg-preview_622
+  - first:
+      213: 1479401365385405602
+    second: enemies-removebg-preview_623
+  - first:
+      213: -6736118317195163360
+    second: enemies-removebg-preview_624
+  - first:
+      213: 6487714849180257104
+    second: enemies-removebg-preview_625
+  - first:
+      213: 5416666754112357755
+    second: enemies-removebg-preview_626
+  - first:
+      213: -3359189918883894690
+    second: enemies-removebg-preview_627
+  - first:
+      213: 7742328450442743628
+    second: enemies-removebg-preview_628
+  - first:
+      213: -2157136239751446351
+    second: enemies-removebg-preview_629
+  - first:
+      213: -4887880623004560259
+    second: enemies-removebg-preview_630
+  - first:
+      213: 4070994680590152203
+    second: enemies-removebg-preview_631
+  - first:
+      213: 3801269258295352475
+    second: enemies-removebg-preview_632
+  - first:
+      213: -5763147582937230018
+    second: enemies-removebg-preview_633
+  - first:
+      213: 3934563541448021654
+    second: enemies-removebg-preview_634
+  - first:
+      213: 7077116646083536246
+    second: enemies-removebg-preview_635
+  - first:
+      213: -1475338072152044726
+    second: enemies-removebg-preview_636
+  - first:
+      213: 5335922358851761055
+    second: enemies-removebg-preview_637
+  - first:
+      213: 3255394610402064789
+    second: enemies-removebg-preview_638
+  - first:
+      213: -3881241270828361606
+    second: enemies-removebg-preview_639
+  - first:
+      213: -7899109849767370417
+    second: enemies-removebg-preview_640
+  - first:
+      213: 6832523719492396878
+    second: enemies-removebg-preview_641
+  - first:
+      213: -4683160545706924245
+    second: enemies-removebg-preview_642
+  - first:
+      213: 2994621883257024127
+    second: enemies-removebg-preview_643
+  - first:
+      213: -1588860248129807986
+    second: enemies-removebg-preview_644
+  - first:
+      213: -3227955035097431182
+    second: enemies-removebg-preview_645
+  - first:
+      213: 8942283908524565225
+    second: enemies-removebg-preview_646
+  - first:
+      213: -7172177302042203885
+    second: enemies-removebg-preview_647
+  - first:
+      213: 3385771758895880670
+    second: enemies-removebg-preview_648
+  - first:
+      213: -6938482203741281978
+    second: enemies-removebg-preview_649
+  - first:
+      213: 4654969133329064444
+    second: enemies-removebg-preview_650
+  - first:
+      213: 755627554696212437
+    second: enemies-removebg-preview_651
+  - first:
+      213: -8504847943030652941
+    second: enemies-removebg-preview_652
+  - first:
+      213: 2762329767215553074
+    second: enemies-removebg-preview_653
+  - first:
+      213: 6669099851411749819
+    second: enemies-removebg-preview_654
+  - first:
+      213: -7823421927273487405
+    second: enemies-removebg-preview_655
+  - first:
+      213: -1560179737298871816
+    second: enemies-removebg-preview_656
+  - first:
+      213: -8475629191298202732
+    second: enemies-removebg-preview_657
+  - first:
+      213: 3740553272736995999
+    second: enemies-removebg-preview_658
+  - first:
+      213: -3981604164682152950
+    second: enemies-removebg-preview_659
+  - first:
+      213: 2121085894140089967
+    second: enemies-removebg-preview_660
+  - first:
+      213: 7921320927721567320
+    second: enemies-removebg-preview_661
+  - first:
+      213: -6243699149858612263
+    second: enemies-removebg-preview_662
+  - first:
+      213: -2408184254652167225
+    second: enemies-removebg-preview_663
+  - first:
+      213: 557754637882410626
+    second: enemies-removebg-preview_664
+  - first:
+      213: 4118887046667045258
+    second: enemies-removebg-preview_665
+  - first:
+      213: 6101764010140356149
+    second: enemies-removebg-preview_666
+  - first:
+      213: -541430154998310406
+    second: enemies-removebg-preview_667
+  - first:
+      213: 502190315393444201
+    second: enemies-removebg-preview_668
+  - first:
+      213: 4859947186777772821
+    second: enemies-removebg-preview_669
+  - first:
+      213: -1030004102910388980
+    second: enemies-removebg-preview_670
+  - first:
+      213: -2284770751901073815
+    second: enemies-removebg-preview_671
+  - first:
+      213: 4977859438379253402
+    second: enemies-removebg-preview_672
+  - first:
+      213: 614573738769157723
+    second: enemies-removebg-preview_673
+  - first:
+      213: -4091003688868754331
+    second: enemies-removebg-preview_674
+  - first:
+      213: -8816592577838408200
+    second: enemies-removebg-preview_675
+  - first:
+      213: 2029618289523990142
+    second: enemies-removebg-preview_676
+  - first:
+      213: 5766684991211509077
+    second: enemies-removebg-preview_677
+  - first:
+      213: 5260040276104224684
+    second: enemies-removebg-preview_678
+  - first:
+      213: 670596940775272358
+    second: enemies-removebg-preview_679
+  - first:
+      213: 1574240871212030068
+    second: enemies-removebg-preview_680
+  - first:
+      213: 3914133240120282452
+    second: enemies-removebg-preview_681
+  - first:
+      213: -5331979226630843611
+    second: enemies-removebg-preview_682
+  - first:
+      213: 3278664184815779881
+    second: enemies-removebg-preview_683
+  - first:
+      213: 1834030496962017450
+    second: enemies-removebg-preview_684
+  - first:
+      213: -843970685228741360
+    second: enemies-removebg-preview_685
+  - first:
+      213: -6117001469703753643
+    second: enemies-removebg-preview_686
+  - first:
+      213: -2437035663067581818
+    second: enemies-removebg-preview_687
+  - first:
+      213: -8501292345832641293
+    second: enemies-removebg-preview_688
+  - first:
+      213: 7655448851715704407
+    second: enemies-removebg-preview_689
+  - first:
+      213: -9005997148677957703
+    second: enemies-removebg-preview_690
+  - first:
+      213: -2529817730195847790
+    second: enemies-removebg-preview_691
+  - first:
+      213: 737264696497137445
+    second: enemies-removebg-preview_692
+  - first:
+      213: 1928790505307294216
+    second: enemies-removebg-preview_693
+  - first:
+      213: -7198728341756564643
+    second: enemies-removebg-preview_694
+  - first:
+      213: 3054167333796735113
+    second: enemies-removebg-preview_695
+  - first:
+      213: -8678630384564664948
+    second: enemies-removebg-preview_696
+  - first:
+      213: -1892254317314547596
+    second: enemies-removebg-preview_697
+  - first:
+      213: -6429694529772211571
+    second: enemies-removebg-preview_698
+  - first:
+      213: -421378382752185218
+    second: enemies-removebg-preview_699
+  - first:
+      213: -8516399616990087978
+    second: enemies-removebg-preview_700
+  - first:
+      213: -8544516111746617984
+    second: enemies-removebg-preview_701
+  - first:
+      213: 122876160512862070
+    second: enemies-removebg-preview_702
+  - first:
+      213: 8149621011628697192
+    second: enemies-removebg-preview_703
+  - first:
+      213: 8425091637215483142
+    second: enemies-removebg-preview_704
+  - first:
+      213: 1063394355163066083
+    second: enemies-removebg-preview_705
+  - first:
+      213: 7097961233244092791
+    second: enemies-removebg-preview_706
+  - first:
+      213: -5761652375421577408
+    second: enemies-removebg-preview_707
+  - first:
+      213: 8661672412058549535
+    second: enemies-removebg-preview_708
+  - first:
+      213: 2557402270904422662
+    second: enemies-removebg-preview_709
+  - first:
+      213: -5636104260273926443
+    second: enemies-removebg-preview_710
+  - first:
+      213: -1540126790927420002
+    second: enemies-removebg-preview_711
+  - first:
+      213: 3596724431879003133
+    second: enemies-removebg-preview_712
+  - first:
+      213: 4542296338145130054
+    second: enemies-removebg-preview_713
+  - first:
+      213: 6225295303664318000
+    second: enemies-removebg-preview_714
+  - first:
+      213: 5653467288040563397
+    second: enemies-removebg-preview_715
+  - first:
+      213: 4421416726099094785
+    second: enemies-removebg-preview_716
+  - first:
+      213: 6834614476952160000
+    second: enemies-removebg-preview_717
+  - first:
+      213: 3268296620490150
+    second: enemies-removebg-preview_718
+  - first:
+      213: 1174247307730391406
+    second: enemies-removebg-preview_719
+  - first:
+      213: 264094745880098953
+    second: enemies-removebg-preview_720
+  - first:
+      213: 2924074225438388326
+    second: enemies-removebg-preview_721
+  - first:
+      213: 1761084923965599488
+    second: enemies-removebg-preview_722
+  - first:
+      213: -5004701162177237674
+    second: enemies-removebg-preview_723
+  - first:
+      213: -2714675292799747016
+    second: enemies-removebg-preview_724
+  - first:
+      213: -4790548714912401889
+    second: enemies-removebg-preview_725
+  - first:
+      213: 4261137283005229657
+    second: enemies-removebg-preview_726
+  - first:
+      213: -3294727383289142449
+    second: enemies-removebg-preview_727
+  - first:
+      213: 2840036959576485666
+    second: enemies-removebg-preview_728
+  - first:
+      213: -3502850156664926687
+    second: enemies-removebg-preview_729
+  - first:
+      213: -7096695374280808130
+    second: enemies-removebg-preview_730
+  - first:
+      213: -8340518265303671742
+    second: enemies-removebg-preview_731
+  - first:
+      213: -7892601249350087915
+    second: enemies-removebg-preview_732
+  - first:
+      213: -6607265333291653187
+    second: enemies-removebg-preview_733
+  - first:
+      213: 5636484023781851362
+    second: enemies-removebg-preview_734
+  - first:
+      213: 6913026456843331697
+    second: enemies-removebg-preview_735
+  - first:
+      213: -2997521985889035637
+    second: enemies-removebg-preview_736
+  - first:
+      213: 820897428103812993
+    second: enemies-removebg-preview_737
+  - first:
+      213: -2574579945741863849
+    second: enemies-removebg-preview_738
+  - first:
+      213: -3634792953057312032
+    second: enemies-removebg-preview_739
+  - first:
+      213: 3725142991273306306
+    second: enemies-removebg-preview_740
+  - first:
+      213: -3774250729045419748
+    second: enemies-removebg-preview_741
+  - first:
+      213: 2820532963417208267
+    second: enemies-removebg-preview_742
+  - first:
+      213: 4825873578167962809
+    second: enemies-removebg-preview_743
+  - first:
+      213: -6030203484840406309
+    second: enemies-removebg-preview_744
+  - first:
+      213: 1846272879759637992
+    second: enemies-removebg-preview_745
+  - first:
+      213: 5659116403934250678
+    second: enemies-removebg-preview_746
+  - first:
+      213: -6010600147425333191
+    second: enemies-removebg-preview_747
+  - first:
+      213: 6906305535761468934
+    second: enemies-removebg-preview_748
+  - first:
+      213: 5631067297131421382
+    second: enemies-removebg-preview_749
+  - first:
+      213: -4764081669157772930
+    second: enemies-removebg-preview_750
+  - first:
+      213: -5717000041451729473
+    second: enemies-removebg-preview_751
+  - first:
+      213: 8791793601668953852
+    second: enemies-removebg-preview_752
+  - first:
+      213: 2543731133936693257
+    second: enemies-removebg-preview_753
+  - first:
+      213: 788540905126174977
+    second: enemies-removebg-preview_754
+  - first:
+      213: 451920476295717263
+    second: enemies-removebg-preview_755
+  - first:
+      213: -3907760601902075896
+    second: enemies-removebg-preview_756
+  - first:
+      213: -8048339864491196263
+    second: enemies-removebg-preview_757
+  - first:
+      213: 2615602610279231695
+    second: enemies-removebg-preview_758
+  - first:
+      213: 2128786342532939206
+    second: enemies-removebg-preview_759
+  - first:
+      213: 915297324522413287
+    second: enemies-removebg-preview_760
+  - first:
+      213: 8045341460469173998
+    second: enemies-removebg-preview_761
+  - first:
+      213: 8346105124944612732
+    second: enemies-removebg-preview_762
+  - first:
+      213: -3640414688439297776
+    second: enemies-removebg-preview_763
+  - first:
+      213: -1218670481252744406
+    second: enemies-removebg-preview_764
+  - first:
+      213: 5774605188773056392
+    second: enemies-removebg-preview_765
+  - first:
+      213: -6232281194213854060
+    second: enemies-removebg-preview_766
+  - first:
+      213: 182079222286605581
+    second: enemies-removebg-preview_767
+  - first:
+      213: 5699161435124936858
+    second: enemies-removebg-preview_768
+  - first:
+      213: 8180312799970038395
+    second: enemies-removebg-preview_769
+  - first:
+      213: 7857844698230961538
+    second: enemies-removebg-preview_770
+  - first:
+      213: -1594712994297593234
+    second: enemies-removebg-preview_771
+  - first:
+      213: -8814917171783326413
+    second: enemies-removebg-preview_772
+  - first:
+      213: 7622905271402100559
+    second: enemies-removebg-preview_773
+  - first:
+      213: 7985846495200492310
+    second: enemies-removebg-preview_774
+  - first:
+      213: 6539137213580721269
+    second: enemies-removebg-preview_775
+  - first:
+      213: -5388635952502118374
+    second: enemies-removebg-preview_776
+  - first:
+      213: 8872639283064922304
+    second: enemies-removebg-preview_777
+  - first:
+      213: 6584798960840692071
+    second: enemies-removebg-preview_778
+  - first:
+      213: 9137084136898075569
+    second: enemies-removebg-preview_779
+  - first:
+      213: -105995361653007523
+    second: enemies-removebg-preview_780
+  - first:
+      213: 2026636553257140358
+    second: enemies-removebg-preview_781
+  - first:
+      213: -7392574714592288286
+    second: enemies-removebg-preview_782
+  - first:
+      213: -9128223733847063741
+    second: enemies-removebg-preview_783
+  - first:
+      213: -7348567463100333930
+    second: enemies-removebg-preview_784
+  - first:
+      213: -7400810614013099894
+    second: enemies-removebg-preview_785
+  - first:
+      213: -1696626458985827006
+    second: enemies-removebg-preview_786
+  - first:
+      213: 5504664310223187189
+    second: enemies-removebg-preview_787
+  - first:
+      213: -3926163824616457719
+    second: enemies-removebg-preview_788
+  - first:
+      213: -9071888574990846753
+    second: enemies-removebg-preview_789
+  - first:
+      213: -6979834223287272997
+    second: enemies-removebg-preview_790
+  - first:
+      213: -3084485107954206729
+    second: enemies-removebg-preview_791
+  - first:
+      213: -1240200954748383983
+    second: enemies-removebg-preview_792
+  - first:
+      213: 4444403519600810704
+    second: enemies-removebg-preview_793
+  - first:
+      213: -7168320139733100365
+    second: enemies-removebg-preview_794
+  - first:
+      213: -3936722980144931708
+    second: enemies-removebg-preview_795
+  - first:
+      213: -6419419210912580510
+    second: enemies-removebg-preview_796
+  - first:
+      213: -6651635327996661678
+    second: enemies-removebg-preview_797
+  - first:
+      213: -5476603413348907399
+    second: enemies-removebg-preview_798
+  - first:
+      213: 5597505188109238047
+    second: enemies-removebg-preview_799
+  - first:
+      213: 7808495881748314062
+    second: enemies-removebg-preview_800
+  - first:
+      213: 1969015445249431075
+    second: enemies-removebg-preview_801
+  - first:
+      213: -1727633243533472272
+    second: enemies-removebg-preview_802
+  - first:
+      213: -5266129165740539760
+    second: enemies-removebg-preview_803
+  - first:
+      213: -3119228884080516022
+    second: enemies-removebg-preview_804
+  - first:
+      213: 2919863140146071830
+    second: enemies-removebg-preview_805
+  - first:
+      213: -9023319678349206958
+    second: enemies-removebg-preview_806
+  - first:
+      213: -2953614204660590343
+    second: enemies-removebg-preview_807
+  - first:
+      213: 9157217073417606360
+    second: enemies-removebg-preview_808
+  - first:
+      213: -5798917982699117192
+    second: enemies-removebg-preview_809
+  - first:
+      213: -8440252845857241414
+    second: enemies-removebg-preview_810
+  - first:
+      213: -1397604482113041493
+    second: enemies-removebg-preview_811
+  - first:
+      213: -7765065060687229843
+    second: enemies-removebg-preview_812
+  - first:
+      213: 8971777755733354171
+    second: enemies-removebg-preview_813
+  - first:
+      213: -4937181160793267345
+    second: enemies-removebg-preview_814
+  - first:
+      213: -2659892812580793740
+    second: enemies-removebg-preview_815
+  - first:
+      213: -8481354223012691186
+    second: enemies-removebg-preview_816
+  - first:
+      213: -6288531932917814709
+    second: enemies-removebg-preview_817
+  - first:
+      213: -4347347556065723234
+    second: enemies-removebg-preview_818
+  - first:
+      213: 8554755638544593398
+    second: enemies-removebg-preview_819
+  - first:
+      213: -5906676893415054513
+    second: enemies-removebg-preview_820
+  - first:
+      213: 2698207167946278905
+    second: enemies-removebg-preview_821
+  - first:
+      213: 6772653200237527653
+    second: enemies-removebg-preview_822
+  - first:
+      213: 4597445766515902290
+    second: enemies-removebg-preview_823
+  - first:
+      213: 2338118257994765197
+    second: enemies-removebg-preview_824
+  - first:
+      213: -5431652999974634543
+    second: enemies-removebg-preview_825
+  - first:
+      213: 4513014866068191471
+    second: enemies-removebg-preview_826
+  - first:
+      213: -668955032865373094
+    second: enemies-removebg-preview_827
+  - first:
+      213: 4299956713727866729
+    second: enemies-removebg-preview_828
+  - first:
+      213: -1884016004797615505
+    second: enemies-removebg-preview_829
+  - first:
+      213: -4772242721049206666
+    second: enemies-removebg-preview_830
+  - first:
+      213: -6449915536239490482
+    second: enemies-removebg-preview_831
+  - first:
+      213: -7672081910012436931
+    second: enemies-removebg-preview_832
+  - first:
+      213: -5611457923258942619
+    second: enemies-removebg-preview_833
+  - first:
+      213: -1683918900820876253
+    second: enemies-removebg-preview_834
+  - first:
+      213: -7385626191878898533
+    second: enemies-removebg-preview_835
+  - first:
+      213: 7634343885914342175
+    second: enemies-removebg-preview_836
+  - first:
+      213: 6058641084563464560
+    second: enemies-removebg-preview_837
+  - first:
+      213: -6208037759369396464
+    second: enemies-removebg-preview_838
+  - first:
+      213: 1928763189540965544
+    second: enemies-removebg-preview_839
+  - first:
+      213: 8781365703899826857
+    second: enemies-removebg-preview_840
+  - first:
+      213: 4774611647487753519
+    second: enemies-removebg-preview_841
+  - first:
+      213: 4862771801372239904
+    second: enemies-removebg-preview_842
+  - first:
+      213: 1075298729137346400
+    second: enemies-removebg-preview_843
+  - first:
+      213: 3019643316361140817
+    second: enemies-removebg-preview_844
+  - first:
+      213: 3922316860936835859
+    second: enemies-removebg-preview_845
+  - first:
+      213: 3477173523754954673
+    second: enemies-removebg-preview_846
+  - first:
+      213: 7931413502898647202
+    second: enemies-removebg-preview_847
+  - first:
+      213: 2839197827223138602
+    second: enemies-removebg-preview_848
+  - first:
+      213: 4247796647446674794
+    second: enemies-removebg-preview_849
+  - first:
+      213: -5031119797670850174
+    second: enemies-removebg-preview_850
+  - first:
+      213: 6460126408016068370
+    second: enemies-removebg-preview_851
+  - first:
+      213: -4330726961656095122
+    second: enemies-removebg-preview_852
+  - first:
+      213: 2413938355382097757
+    second: enemies-removebg-preview_853
+  - first:
+      213: -1441725007623044105
+    second: enemies-removebg-preview_854
+  - first:
+      213: -849801796423769517
+    second: enemies-removebg-preview_855
+  - first:
+      213: -49749403624622797
+    second: enemies-removebg-preview_856
+  - first:
+      213: 8589154279136837354
+    second: enemies-removebg-preview_857
+  - first:
+      213: -5240529670761150181
+    second: enemies-removebg-preview_858
+  - first:
+      213: -1590211601369390638
+    second: enemies-removebg-preview_859
+  - first:
+      213: -8033063168461376034
+    second: enemies-removebg-preview_860
+  - first:
+      213: 1807621716823618787
+    second: enemies-removebg-preview_861
+  - first:
+      213: 5119399068780065821
+    second: enemies-removebg-preview_862
+  - first:
+      213: -5735710058076438618
+    second: enemies-removebg-preview_863
+  - first:
+      213: 2713698256277593117
+    second: enemies-removebg-preview_864
+  - first:
+      213: 4689250274916426534
+    second: enemies-removebg-preview_865
+  - first:
+      213: 3843531676725587778
+    second: enemies-removebg-preview_866
+  - first:
+      213: 226721110401522978
+    second: enemies-removebg-preview_867
+  - first:
+      213: -4613141801779816929
+    second: enemies-removebg-preview_868
+  - first:
+      213: -8769755041731137687
+    second: enemies-removebg-preview_869
+  - first:
+      213: -4997675708515398573
+    second: enemies-removebg-preview_870
+  - first:
+      213: -3886490393196969576
+    second: enemies-removebg-preview_871
+  - first:
+      213: -1000225121993601146
+    second: enemies-removebg-preview_872
+  - first:
+      213: -8757646823750203388
+    second: enemies-removebg-preview_873
+  - first:
+      213: 5771353629574286154
+    second: enemies-removebg-preview_874
+  - first:
+      213: 2401117502745563067
+    second: enemies-removebg-preview_875
+  - first:
+      213: -7662508952531508407
+    second: enemies-removebg-preview_876
+  - first:
+      213: 129974747421385871
+    second: enemies-removebg-preview_877
+  - first:
+      213: 293521358226368794
+    second: enemies-removebg-preview_878
+  - first:
+      213: 8564240895974676614
+    second: enemies-removebg-preview_879
+  - first:
+      213: -9053408535889585724
+    second: enemies-removebg-preview_880
+  - first:
+      213: 6271597407602960836
+    second: enemies-removebg-preview_881
+  - first:
+      213: -3152319408447860553
+    second: enemies-removebg-preview_882
+  - first:
+      213: 3741010815229587235
+    second: enemies-removebg-preview_883
+  - first:
+      213: 4061457729740769988
+    second: enemies-removebg-preview_884
+  - first:
+      213: -7173552751175718237
+    second: enemies-removebg-preview_885
+  - first:
+      213: -4230515617682942481
+    second: enemies-removebg-preview_886
+  - first:
+      213: 5400930810653122580
+    second: enemies-removebg-preview_887
+  - first:
+      213: 3880056907623516902
+    second: enemies-removebg-preview_888
+  - first:
+      213: 6572624104955161262
+    second: enemies-removebg-preview_889
+  - first:
+      213: 3429210865487178707
+    second: enemies-removebg-preview_890
+  - first:
+      213: -936883249249628019
+    second: enemies-removebg-preview_891
+  - first:
+      213: 6742532249369921467
+    second: enemies-removebg-preview_892
+  - first:
+      213: -3936364030324957528
+    second: enemies-removebg-preview_893
+  - first:
+      213: -3130892536995774130
+    second: enemies-removebg-preview_894
+  - first:
+      213: 8096729566196875472
+    second: enemies-removebg-preview_895
+  - first:
+      213: -8509615131773976330
+    second: enemies-removebg-preview_896
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemies-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce24fb3491a02f40800000000000000
+      internalID: 5701734786284138188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f173cfb6f1b210800000000000000
+      internalID: 1347129067038700268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88463ded7c0364810800000000000000
+      internalID: 1749139140275037320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9338f30cb38a720800000000000000
+      internalID: 2857599660451903981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530382f72b3b18c0800000000000000
+      internalID: -4027560398994341038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e084be2c6e53060800000000000000
+      internalID: 6932700926252158497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67d19a64195ebf0800000000000000
+      internalID: -295670467851880741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a179f208e064fc0800000000000000
+      internalID: -3511102915771688441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456bd238ecede0b40800000000000000
+      internalID: 5408505181063984724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7441a5ff9f948640800000000000000
+      internalID: 5081361788950365310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_walk1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf560361807a120800000000000000
+      internalID: 2424915815756593908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_walk2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 654
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e106db6befa1700800000000000000
+      internalID: 512001568474668581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_crash
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 655
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8454b693ffe91100800000000000000
+      internalID: 79358297940186254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2cdf808aaf5da80800000000000000
+      internalID: -8442566326823828792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aaf7ec7ef2f23d0800000000000000
+      internalID: -3229309735152932212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93ccd2ade1a03f0800000000000000
+      internalID: -933900050305893969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6e0341f27624e30800000000000000
+      internalID: 4486261630714308259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c019b0a51581a50800000000000000
+      internalID: 6492028310037531740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356636d3fc0230d30800000000000000
+      internalID: 4396393735703979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40f1effdf304260800000000000000
+      internalID: 7079728845500122307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec5e7374fd16b630800000000000000
+      internalID: 3942371459556334818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e5ca8960e9e8c0800000000000000
+      internalID: -3969394852645969463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515bd5a9a07e9d80800000000000000
+      internalID: -8242026394107031215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f934c1bb037770800000000000000
+      internalID: 8607236170964399713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58962fef722f9c0800000000000000
+      internalID: -3895006751779879514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86437673343fd020800000000000000
+      internalID: 2368669324655412878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376df2c1e985415b0800000000000000
+      internalID: -5398592617209407885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e486e929aa33ab0800000000000000
+      internalID: -5029488812143128933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5fe03146692420800000000000000
+      internalID: 2605726289590442890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad4083db259cbd0800000000000000
+      internalID: -2609463536442353127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ab631c2fd93b90800000000000000
+      internalID: -7261527543760836798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971876f702de4c80800000000000000
+      internalID: -8336494928574539885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c88956bdc930c00800000000000000
+      internalID: 865708019501534276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf5b1e73d4758500800000000000000
+      internalID: 397852593794801602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d89efd38f4a820800000000000000
+      internalID: 2928738602845786544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a420ca8a657650800000000000000
+      internalID: 6230002803698607706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e76f1efd37b990800000000000000
+      internalID: -7370354103510637049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97263cd060308fd70800000000000000
+      internalID: 9077008373500830329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b5e89cb7cecdb0800000000000000
+      internalID: -4769655342505806695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a36e8ccd9a038b0800000000000000
+      internalID: -5174449206120269271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087179976a80fe20800000000000000
+      internalID: 3382355497715857410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a904edc8b8015760800000000000000
+      internalID: 7444741248841419168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45eddb153320d220800000000000000
+      internalID: 2508543703453132107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5b26b57da8ecf0800000000000000
+      internalID: -222737460475765107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e94996067acad30800000000000000
+      internalID: 4444110964837883450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2635112fb6a8580800000000000000
+      internalID: -8824121832462130482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 594
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03efe29791bd18740800000000000000
+      internalID: 5152640351142346288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2132d259723de0b70800000000000000
+      internalID: 8867256883299033874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b344b522a01c980800000000000000
+      internalID: -8520517877331903724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6392069b6e120940800000000000000
+      internalID: 5260800762149245802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f464d90d18fa230800000000000000
+      internalID: 3652280555812572990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea716c8aa7df750800000000000000
+      internalID: 6340358715704061660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59a2f5cb8a178790800000000000000
+      internalID: -7528019064502703782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753110228b1c94c80800000000000000
+      internalID: -8337920238511123625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053714f8dd3089fb0800000000000000
+      internalID: -4640955165879209136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61826daaf29b34050800000000000000
+      internalID: 5783669960854611990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a0b2da4e4fbb10800000000000000
+      internalID: 1999402842845129028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca286f75af533b350800000000000000
+      internalID: 6031223675313095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74682906def23d730800000000000000
+      internalID: 4022611588745954887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd9752cc46b55d50800000000000000
+      internalID: 6725482059341995449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66517d17fcae34f50800000000000000
+      internalID: 6864588433731818854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 564
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169c0a2c64e25cf0800000000000000
+      internalID: -264898274848369122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ccd3efb55da850800000000000000
+      internalID: 6389857728958612756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733bf002cc23c9b0800000000000000
+      internalID: -5061152344482565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad41f6917fbfc30800000000000000
+      internalID: 4394377550039931428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523d28b4e3336240800000000000000
+      internalID: 4783724286633128536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1023c805ee48600800000000000000
+      internalID: 469762290870256091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8861a82dcef42f0800000000000000
+      internalID: -986309404366829324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6458ff0e32448e80800000000000000
+      internalID: -8177338189074639762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8a85abcb3848c0800000000000000
+      internalID: -4014893321959077085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc14fca136b5afb0800000000000000
+      internalID: -4637099916836725574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4815279a147de6cc0800000000000000
+      internalID: -3715795965518392956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 534
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a0d8fde08207f0800000000000000
+      internalID: -647813636817902086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8b4b6290a827f0800000000000000
+      internalID: -637082796547142390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e10365bde453900800000000000000
+      internalID: 663523224057814553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7f435d61a64c60800000000000000
+      internalID: 7802100895387188736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04a34abec1dc9b0800000000000000
+      internalID: -5058355008069025627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c681eb90dc3d00800000000000000
+      internalID: 953866589017915472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08ee0805ca73e890800000000000000
+      internalID: -7429959973568845814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f01c18ba8e5bd0800000000000000
+      internalID: -2639519808243043352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc61493fd4ee6400800000000000000
+      internalID: 319444270979312848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84dde855856e560800000000000000
+      internalID: 7342653366966503616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa6e0a3e84830fe0800000000000000
+      internalID: -1223988927320397060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 504
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712828a216c487d0800000000000000
+      internalID: -2916988875196325516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bfe4a498e06d250800000000000000
+      internalID: 5968974338946169646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 474
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c881b980e0bb5c90800000000000000
+      internalID: -7179950702482847544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 474
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995af549ada132de0800000000000000
+      internalID: -1359213136441268839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 474
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495c92f2adda9ad0800000000000000
+      internalID: -2694597735103047353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441bb31cc178c2b80800000000000000
+      internalID: -8418205045891550908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab2e08da4d24a160800000000000000
+      internalID: 7035798317335194533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea2d176ce6bfef0800000000000000
+      internalID: -73343170329268712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cf8be00cbf724c0800000000000000
+      internalID: -4312201315884663757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da16934a102d112f0800000000000000
+      internalID: -1003790337434885715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d51ed5b214062e0800000000000000
+      internalID: -2134634568859165385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae041f161aa5c60800000000000000
+      internalID: 7807730346031639245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a67ab8324ca100800000000000000
+      internalID: 120544101446100353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd757a77affeb9c70800000000000000
+      internalID: 8979034141121533917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50f3501d8ff5470800000000000000
+      internalID: 8385694607807022524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f82fb02fe008ed60800000000000000
+      internalID: 7919580971777599735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9031a1a506afbfd50800000000000000
+      internalID: 6772281756417135369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703a63e758ea3b80800000000000000
+      internalID: -8414157489613164431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdddf580c80bb5500800000000000000
+      internalID: 386096308552719839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c292d2f5fdd1b0800000000000000
+      internalID: -5630073535879526775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a9a8ba65e36e60800000000000000
+      internalID: 7954453613393847907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2504218c2739a70800000000000000
+      internalID: 8832529497828905716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d99f17e1266df0800000000000000
+      internalID: -187425057937960469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2307059f2258fd0800000000000000
+      internalID: -2340425977157373220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e825105de72fd0800000000000000
+      internalID: -2366662150951738001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 414
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f89b11cd7bc920800000000000000
+      internalID: 3011639044172476964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0930919baf08c5ed0800000000000000
+      internalID: -2423920685096565872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c93113c319fda70800000000000000
+      internalID: 8853955080141118610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905d8d7bdf6fabc80800000000000000
+      internalID: -8306054993159858935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe3dc9e3cfdd630800000000000000
+      internalID: 3953593393750470414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62741dd18e5493990800000000000000
+      internalID: -7405811248999086298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf8411d4bd6f650800000000000000
+      internalID: 6266437055581584121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4e67749255c830800000000000000
+      internalID: 4090766634148318134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4160c8a69cf2e920800000000000000
+      internalID: 3018252424298127692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcac2edf942a7010800000000000000
+      internalID: 1187301720811416795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ed0e7cb6232f10800000000000000
+      internalID: 2243679630371186006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa19a56f3086660800000000000000
+      internalID: 7379152346062893007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef98a3d72bd467060800000000000000
+      internalID: 6950828503893445118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763bffb71408f9a0800000000000000
+      internalID: -6199200387023817095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 384
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2219032caa91570800000000000000
+      internalID: 8437963127870530272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb19505930e62a0800000000000000
+      internalID: -6742447653548605734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 354
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393b5d234e1891e0800000000000000
+      internalID: -2190967944843151041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 354
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69a1f72e7b4b1e0800000000000000
+      internalID: -2182917735944907039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 354
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339df8c8a5800d60800000000000000
+      internalID: 7854424710107206461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 354
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fc31f9865509d20800000000000000
+      internalID: 3283218036186926872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac4bbcff46a5700800000000000000
+      internalID: 529846955966515944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e0e2d991a30b20800000000000000
+      internalID: 3099498650601054506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359f2ae5039a47f0800000000000000
+      internalID: -627527544451656385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d8d3eaf0f05190800000000000000
+      internalID: -7975609979718019422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b0bcfde50c8f20800000000000000
+      internalID: 3426119936226932259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec061aa88411d8c0800000000000000
+      internalID: -3976374418789757725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a43f8ae67de5ab0800000000000000
+      internalID: -5017336064563262888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87102fe8c73a6e5b0800000000000000
+      internalID: -5339400552831647368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe503890b21caf0800000000000000
+      internalID: -377973573869506753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 324
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50e61c3ff05cd20800000000000000
+      internalID: 3298059841715439075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7438af34b8e031680800000000000000
+      internalID: -8785662456765971641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d16dd9a7ad6f710800000000000000
+      internalID: 1726807727312084292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263d917797ed5840800000000000000
+      internalID: 5214578581197108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9185e701e9c5b60800000000000000
+      internalID: 7736232053592037814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67435caf019f09650800000000000000
+      internalID: 6237759335230157942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f76052a4936340800000000000000
+      internalID: 4855888248090130183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580fbc607f1b9560800000000000000
+      internalID: 7321480186942130257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfba2202880cdf40800000000000000
+      internalID: 5754483778347778004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8795305c09f43190800000000000000
+      internalID: -7983482408140433521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173b7be1ac9ce590800000000000000
+      internalID: -7643562248300185840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 294
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f319343d6d9c5de0800000000000000
+      internalID: -1343025496510098445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa93ee7d37a23880800000000000000
+      internalID: -8632653653152130319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 264
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731393e884a686db0800000000000000
+      internalID: -4798468543106961097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 264
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e8296dcb7b059c0800000000000000
+      internalID: -3940447652267520471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 264
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa0c5ebb538d550800000000000000
+      internalID: 6185753169323143017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce26200b4634ff0800000000000000
+      internalID: -53088063481254779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 264
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee5edb0bc684cb0800000000000000
+      internalID: -4879530689899925904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03baccbb8ebf867c0800000000000000
+      internalID: -4077732485582247120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 234
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3227a0c801f0fa30800000000000000
+      internalID: 4247159468504588863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 234
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85553a6b6a44b6da0800000000000000
+      internalID: -5950586999820561064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 234
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711615ffaa7b6c60800000000000000
+      internalID: 7812472874753986940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 234
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c24f426be256c0800000000000000
+      internalID: -4156000698640448792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e4a4a0821ec080800000000000000
+      internalID: -9165367847924995954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b20ec92da2b2d0800000000000000
+      internalID: -3264356384828640893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 204
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5deaf596bf16f0800000000000000
+      internalID: -711649460825007047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378fa97040adc8f0800000000000000
+      internalID: -518582183297841350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df46d8bb08d85f40800000000000000
+      internalID: 5717557271804137424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 174
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71860253917f0b640800000000000000
+      internalID: 5093842866193590295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 174
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d188586145c2d840800000000000000
+      internalID: 5247473400554226130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 174
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4869423c9d1a1ce0800000000000000
+      internalID: -1433800974668306358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 174
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360f038981061290800000000000000
+      internalID: -7920141204563491280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 174
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34bb5559a591350800000000000000
+      internalID: 5987916777000747969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b59684a093f1750800000000000000
+      internalID: 6277799121905081137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a5306d5fbd6de0800000000000000
+      internalID: -1338203106492177948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b07271fef95850800000000000000
+      internalID: 6366399861225470442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34a2d303af9ccb0800000000000000
+      internalID: -4843064839168703547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7615f7e08ae7bbc20800000000000000
+      internalID: 3223309218576552295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b628d3643e255f0800000000000000
+      internalID: -769302695507760343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf41d2dcd6e3b230800000000000000
+      internalID: 3653517558831730603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b38b17d4bb861540800000000000000
+      internalID: 4978320046923940787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 114
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f5691001f31ac90800000000000000
+      internalID: -7160372594563719330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97201608df6991150800000000000000
+      internalID: 5843868007014662777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 114
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c712759933ae420800000000000000
+      internalID: 2659995263600524353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42eab3bc7e1430e0800000000000000
+      internalID: -2291172789484592566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a212055276b7d5800800000000000000
+      internalID: 602773608075370794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 84
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e994b05f39792c60800000000000000
+      internalID: 7793893942985267683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 84
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db7a899b21ae800800000000000000
+      internalID: 642346485193096508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 84
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a518bfb4a7bd70800000000000000
+      internalID: 9058890318813177622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 84
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271b72db26f8d350800000000000000
+      internalID: 6041849568192829217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd057ee33410fe40800000000000000
+      internalID: 5688068542645472718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9248c93d89616990800000000000000
+      internalID: -7394513057884912998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c9a400d4a8ef1c0800000000000000
+      internalID: -4467981716982948821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a28dd6acd000b0800000000000000
+      internalID: -5764364913795227079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d28537052d3eb0800000000000000
+      internalID: -4738590520031128181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 54
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098d78635b01f1c0800000000000000
+      internalID: -4471780502138943219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe430d8d5a2d9e0800000000000000
+      internalID: -1598032567138455757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84f737547eaf000800000000000000
+      internalID: 70623029654145191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7acbdd9269ba50800000000000000
+      internalID: 6537364764241853398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa748b44d798f5c0800000000000000
+      internalID: -4181425315957671177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac4f4ca6b7c21e0800000000000000
+      internalID: -2221264817699370254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c050da3936679e50800000000000000
+      internalID: 6816028957034434761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

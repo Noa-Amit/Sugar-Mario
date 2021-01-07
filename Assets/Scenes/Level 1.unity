@@ -10094,7 +10094,7 @@ MonoBehaviour:
   animator: {fileID: 1632214785}
   _speed: 10
   _gravity: 9.81
-  _jump_pulse: 1
+  _jump_pulse: 15
   lostOnWalk: -0.02
   lostOnJump: -0.03
   max_y: 2.52
