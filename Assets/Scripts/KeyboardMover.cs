@@ -26,14 +26,14 @@ public class KeyboardMover : MonoBehaviour {
     void Start() {
         td = GetComponent<TouchDetector>();
         fc = GetComponent<FieldsChanger>();
-        rb=GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     private void FixedUpdate() {
         float x = Input.GetAxis("Horizontal");
 
-        if(x < 0) GetComponent<SpriteRenderer>().flipX = true;
-        else GetComponent<SpriteRenderer>().flipX = false;
+        if(x < 0) GetComponent<SpriteRenderer>().flipX = false;
+        else GetComponent<SpriteRenderer>().flipX = true;
 
         velocity.x = x * _speed;
 
