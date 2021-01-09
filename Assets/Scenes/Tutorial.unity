@@ -328,8 +328,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: to move to the  next step you must jump on the pipe.
-  m_isRightToLeft: 0
+  m_text: "\u05D1\u05E9\u05D1\u05D9\u05DC \u05DC\u05E2\u05D1\u05D5\u05E8 \u05DC\u05E9\u05DC\u05D1
+    \u05D4\u05D1\u05D0- \u05E7\u05E4\u05D5\u05E5 \u05D5\u05D4\u05D9\u05DB\u05E0\u05E1
+    \u05DC\u05E6\u05D9\u05E0\u05D5\u05E8."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -481,7 +483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.039, y: 0.09}
+  m_AnchoredPosition: {x: -0.039, y: 0.126}
   m_SizeDelta: {x: 1.8909938, y: 0.8214438}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &118945617
@@ -503,9 +505,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: the blue insulin enable you eat  whatever you want without it affecting
-    your sugar level for 5 seconds
-  m_isRightToLeft: 0
+  m_text: "\u05D4\u05DE\u05D6\u05E8\u05E7 \u05D4\u05DB\u05D7\u05D5\u05DC \u05DE\u05D0\u05E4\u05E9\u05E8
+    \u05DC\u05DA \u05DC\u05D0\u05DB\u05D5\u05DC \u05DE\u05D4 \u05E9\u05D0\u05EA\u05D4
+    \u05E8\u05D5\u05E6\u05D4 \u05DE\u05D1\u05DC\u05D9 \u05E9\u05D6\u05D4 \u05D9\u05E9\u05E4\u05D9\u05E2
+    \u05E2\u05DC \u05E8\u05DE\u05EA \u05D4\u05E1\u05D5\u05DB\u05E8 \u05E9\u05DC\u05DA
+    \u05DC\u05DE\u05E9\u05DA 5 \u05E9\u05E0\u05D9\u05D5\u05EA.\n\u05D6\u05D4 \u05D4\u05D6\u05DE\u05DF
+    \u05E9\u05DC\u05DA \u05DC\u05D4\u05EA\u05E4\u05E8\u05E2 ;("
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -1987,8 +1993,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: If your sugar is high, use the insulin that appears down the road.
-  m_isRightToLeft: 0
+  m_text: "\u05D0\u05DD \u05D4\u05E1\u05D5\u05DB\u05E8 \u05E9\u05DC\u05DA \u05D2\u05D1\u05D5\u05D4,
+    \u05D4\u05E9\u05EA\u05DE\u05E9 \u05D1\u05D0\u05D9\u05E0\u05E1\u05D5\u05DC\u05D9\u05DF
+    \u05E9\u05DE\u05D5\u05E4\u05D9\u05E2 \u05D1\u05D3\u05E8\u05DA.\n\u05E9\u05D9\u05DD
+    \u05DC\u05D1, \u05D9\u05E9 \u05E9\u05E0\u05D9 \u05E1\u05D5\u05D2\u05D9\u05DD
+    \u05E9\u05DC \u05D0\u05D9\u05E0\u05E1\u05D5\u05DC\u05D9\u05DF."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -2819,7 +2829,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.035, y: 0.16}
+  m_AnchoredPosition: {x: 0.041, y: 0.256}
   m_SizeDelta: {x: 1.8909938, y: 0.8214438}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1040261985
@@ -2841,13 +2851,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hello Mario!
-
-    Following the tests we did, we found that you had diabetes.
-
-    But
-    don''t worry, we are here to help you!'
-  m_isRightToLeft: 0
+  m_text: "\u05E9\u05DC\u05D5\u05DD \u05DE\u05E8\u05D9\u05D5,\n\u05D1\u05E2\u05E7\u05D1\u05D5\u05EA
+    \u05D4\u05D1\u05D3\u05D9\u05E7\u05D5\u05EA \u05D4\u05D0\u05D7\u05E8\u05D5\u05E0\u05D5\u05EA
+    \u05E9\u05E2\u05E9\u05D9\u05E0\u05D5 \u05E8\u05D0\u05D9\u05E0\u05D5 \u05E9\u05D9\u05E9
+    \u05DC\u05DA \u05E1\u05D5\u05DB\u05E8\u05EA.\n\u05D0\u05D1\u05DC \u05D0\u05DC
+    \u05EA\u05D3\u05D0\u05D2, \u05D0\u05E0\u05D7\u05E0\u05D5 \u05DB\u05D0\u05DF \u05DB\u05D3\u05D9
+    \u05DC\u05E2\u05D6\u05D5\u05E8 \u05DC\u05DA \u05DC\u05E2\u05D1\u05D5\u05E8 \u05D0\u05EA
+    \u05E9\u05D2\u05E8\u05EA \u05D4\u05D9\u05D5\u05DE\u05D9\u05D5\u05DD \u05D1\u05E9\u05DC\u05D5\u05DD!"
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -2999,7 +3010,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.075, y: 0.08}
+  m_AnchoredPosition: {x: -0.075, y: 0.188}
   m_SizeDelta: {x: 1.8909938, y: 0.8214438}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1080353500
@@ -3021,9 +3032,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: to stay healthy you need to keep your sugar level balanced, in the 100s
-    range. you can see your sugar level at the top right
-  m_isRightToLeft: 0
+  m_text: "\u05DB\u05D3\u05D9 \u05DC\u05D4\u05D9\u05E9\u05D0\u05E8 \u05D1\u05E8\u05D9\u05D0
+    \u05D0\u05EA\u05D4 \u05E6\u05E8\u05D9\u05DA \u05DC\u05E9\u05DE\u05D5\u05E8 \u05E2\u05DC
+    \u05E8\u05DE\u05EA \u05D4\u05E1\u05D5\u05DB\u05E8 \u05E9\u05DC\u05DA \u05DE\u05D0\u05D5\u05D6\u05E0\u05EA
+    \u05DB\u05DE\u05D4 \u05E9\u05D9\u05D5\u05EA\u05E8 \u05DC\u05DB\u05DC \u05D0\u05D5\u05E8\u05DA
+    \u05D4\u05D9\u05D5\u05DD.\n\u05EA\u05D5\u05DB\u05DC \u05DC\u05E8\u05D0\u05D5\u05EA
+    \u05D0\u05EA \u05E8\u05DE\u05EA \u05D4\u05E1\u05D5\u05DB\u05E8 \u05E9\u05DC\u05DA
+    \u05D1\u05DE\u05D3 \u05DE\u05E6\u05D3 \u05E9\u05DE\u05D0\u05DC."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -3719,7 +3735,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.081, y: 0.062}
+  m_AnchoredPosition: {x: -0.081, y: 0.141}
   m_SizeDelta: {x: 1.8909938, y: 0.8214438}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1319790241
@@ -3741,9 +3757,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Great, now that you understand all the rules you can start playing and
-    living healthy. Good luck!
-  m_isRightToLeft: 0
+  m_text: "\u05DE\u05E6\u05D5\u05D9\u05D9\u05DF, \u05E2\u05DB\u05E9\u05D9\u05D5 \u05DB\u05E9\u05D0\u05EA\u05D4
+    \u05D9\u05D5\u05D3\u05E2 \u05D0\u05EA \u05DB\u05DC \u05D4\u05DB\u05DC\u05DC\u05D9\u05DD
+    \u05D0\u05EA\u05D4 \u05D9\u05DB\u05D5\u05DC \u05DC\u05D4\u05EA\u05D7\u05D9\u05DC
+    \u05DC\u05E9\u05D7\u05E7 \u05D5\u05DC\u05D7\u05D9\u05D5\u05EA \u05D7\u05D9\u05D9\u05DD
+    \u05D1\u05E8\u05D9\u05D0\u05D9\u05DD.\n\u05E9\u05D9\u05D4\u05D9\u05D4 \u05D1\u05D4\u05E6\u05DC\u05D7\u05D4!"
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -3776,7 +3795,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -3917,8 +3936,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: jump over your enemies to get rid of them.
-  m_isRightToLeft: 0
+  m_text: "\u05E7\u05E4\u05D5\u05E5 \u05D5\u05DE\u05E2\u05DA \u05D0\u05EA \u05D4\u05D0\u05D5\u05D9\u05D1\u05D9\u05DD
+    \u05D1\u05E9\u05D1\u05D9\u05DC \u05DC\u05D4\u05D9\u05E4\u05D8\u05E8 \u05DE\u05D4\u05DD."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -4289,9 +4309,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: the foods raise the sugar level, and the Insulin is bring it down. different
-    types of food has different sugar value.
-  m_isRightToLeft: 0
+  m_text: "\u05D4\u05DE\u05D0\u05DB\u05DC\u05D9\u05DD \u05D4\u05E9\u05D5\u05E0\u05D9\u05DD
+    \u05DE\u05E2\u05DC\u05D9\u05DD \u05D0\u05EA \u05E8\u05DE\u05EA \u05D4\u05E1\u05D5\u05DB\u05E8,
+    \u05D5\u05D4\u05D0\u05D9\u05E0\u05E1\u05D5\u05DC\u05D9\u05DF \u05DE\u05D5\u05E8\u05D9\u05D3
+    \u05D0\u05D5\u05EA\u05D4. \u05E9\u05D9\u05DD \u05DC\u05D1, \u05D1\u05E1\u05D5\u05D2\u05D9
+    \u05D4\u05D0\u05D5\u05DB\u05DC \u05D4\u05E9\u05D5\u05E0\u05D9\u05DD \u05D9\u05E9
+    \u05DB\u05DE\u05D5\u05D9\u05D5\u05EA \u05E9\u05D5\u05E0\u05D5\u05EA \u05E9\u05DC
+    \u05E1\u05D5\u05DB\u05E8."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -5078,7 +5103,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.069, y: 0.18}
+  m_AnchoredPosition: {x: -0.069, y: 0.022}
   m_SizeDelta: {x: 1.8909938, y: 0.8214438}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1936820170
@@ -5100,12 +5125,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Note, there are two types of insulin:
-
-
-    the yellow insulin lowers
-    a unit of sugar every 2 seconds for 30 seconds.'
-  m_isRightToLeft: 0
+  m_text: "\u05D4\u05DE\u05D6\u05E8\u05E7 \u05D4\u05E6\u05D4\u05D5\u05D1 \u05DE\u05D5\u05E8\u05D9\u05D3
+    \u05D1\u05DB\u05DC \u05E9\u05EA\u05D9 \u05E9\u05E0\u05D9\u05D5\u05EA \u05D9\u05D7\u05D9\u05D3\u05D4
+    \u05D0\u05D7\u05EA \u05E9\u05DC \u05E1\u05D5\u05DB\u05E8 \u05DC\u05DE\u05E9\u05DA
+    03 \u05E9\u05E0\u05D9\u05D5\u05EA."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
@@ -5257,7 +5281,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.056, y: 0.21000004}
+  m_AnchoredPosition: {x: -0.045, y: 0.119}
   m_SizeDelta: {x: 1.8909938, y: 0.8214438}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1982143657
@@ -5279,10 +5303,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Be careful, if your sugar level reaches 35 or 250 you will lose a life
-    and will have to start the whole phase from the begining. If you are left without
-    life at all you will be disqualified and the game will be over.
-  m_isRightToLeft: 0
+  m_text: "\u05D4\u05D9\u05D6\u05D4\u05E8, \u05D0\u05DD \u05E8\u05DE\u05EA \u05D4\u05E1\u05D5\u05DB\u05E8
+    \u05E9\u05DC\u05DA \u05EA\u05D2\u05D9\u05E2 \u05DC53 \u05D0\u05D5 \u05DC052 \u05EA\u05D0\u05D1\u05D3
+    \u05D7\u05D9\u05D9\u05DD. \u05D0\u05DD \u05EA\u05D9\u05E9\u05D0\u05E8 \u05DC\u05DC\u05D0
+    \u05D7\u05D9\u05D9\u05DD \u05D1\u05DB\u05DC\u05DC \u05D4\u05DE\u05E9\u05D7\u05E7
+    \u05D9\u05D9\u05D2\u05DE\u05E8 \u05D5\u05EA\u05D0\u05DC\u05E5 \u05DC\u05D4\u05EA\u05D7\u05D9\u05DC
+    \u05D0\u05D5\u05EA\u05D5 \u05DE\u05D4\u05D4\u05EA\u05D7\u05DC\u05D4."
+  m_isRightToLeft: 1
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
