@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a21ecddd943901a4f9a371de55978b79, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 715329fa59207b64989d1e0982bb9f71, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -98,7 +98,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   triggeringTag: Player
   changeSugarOnTrigger: 0
-  floatingText: {fileID: 0}
 --- !u!50 &3403135541276994601
 Rigidbody2D:
   serializedVersion: 4
