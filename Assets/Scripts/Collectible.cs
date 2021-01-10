@@ -6,7 +6,7 @@ public class Collectible : MonoBehaviour{
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
-        	other.gameObject.GetComponent<FieldsChanger>().addToSugar(changeSugarOnTrigger);
+        	other.gameObject.GetComponent<FieldsController>().addToSugar(changeSugarOnTrigger);
             Destroy(gameObject);
         }
     }

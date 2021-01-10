@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class FieldsChanger : MonoBehaviour
+public class FieldsController : MonoBehaviour
 {
     [SerializeField] SugarField sugarField;
     [SerializeField] LifeField lifeField;
@@ -43,7 +43,7 @@ public class FieldsChanger : MonoBehaviour
     }
     private void validLife(){
         if (lifeField.GetLife() == 0) { //check if out of life
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);  
+                SceneManager.LoadScene("GameOver");  
         }
     }
 //**** coins changer ****

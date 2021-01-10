@@ -4,15 +4,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class NextText : MonoBehaviour
-{
+public class NextText : MonoBehaviour {
     private GameObject bubble;
     static int textNum;
     GameObject currentText;
     GameObject currentBold;
 
-    void Start()
-    {
+    void Start() {
         textNum = 1;
         bubble = gameObject.transform.root.gameObject;
         string name = "Text" + (textNum);
@@ -21,8 +19,7 @@ public class NextText : MonoBehaviour
         currentBold = bubble.transform.Find(boldName).gameObject;
         textNum++;
     }
-    public void Test()
-    {
+    public void Next() {
         Debug.Log(currentText.name);
         Debug.Log(currentBold.name);
         currentText.SetActive(false);

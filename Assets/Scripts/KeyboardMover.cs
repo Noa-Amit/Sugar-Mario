@@ -19,13 +19,13 @@ public class KeyboardMover : MonoBehaviour {
     //private
     private Vector3 velocity;
     private TouchDetector td;
-    private FieldsChanger fc;
+    private FieldsController fc;
     public float max_y = 2.52f;
 
     private Rigidbody2D rb;
     void Start() {
         td = GetComponent<TouchDetector>();
-        fc = GetComponent<FieldsChanger>();
+        fc = GetComponent<FieldsController>();
         rb = GetComponent<Rigidbody2D>();
     }
 
@@ -41,19 +41,20 @@ public class KeyboardMover : MonoBehaviour {
         // jump
         if(Input.GetAxis("Jump")!=0 && td.IsTouching()){
             rb.AddForce(new Vector2(0, _jump_pulse), ForceMode2D.Impulse);
-            GetComponent<FieldsChanger>().addToSugar(lostOnJump);
+            fc.addToSugar(lostOnJump);
         }
 
-        // update animation
-        animator.SetFloat("speed", Mathf.Abs(x));
-        animator.SetBool("isJumping", !td.IsTouching());
-        
         // update position
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
 
+        // update animation
+        animator.SetFloat("speed", Mathf.Abs(x));
+        animator.SetBool("isJumping", !td.IsTouching());
+        animator.SetFloat("high",transform.position.y); //check if falling
+
         // update sugar
-        if(x != 0) GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
+        if(x != 0) fc.addToSugar(lostOnWalk);
     }
     
 }

@@ -6,8 +6,8 @@ public class DestroyEnemy : MonoBehaviour
 {
     [SerializeField] string triggeringTag;
     [SerializeField] Animator animator;
-    GameObject enemy;
-    bool isTriggHead;
+    private GameObject enemy;
+    private bool isTriggHead;
 
     void Start (){
         enemy = gameObject.transform.parent.gameObject;

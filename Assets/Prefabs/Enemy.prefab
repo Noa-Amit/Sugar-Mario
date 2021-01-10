@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2580090779195627884}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.7, y: 8.4, z: 0}
+  m_LocalPosition: {x: 0.07, y: 8.9, z: 0}
   m_LocalScale: {x: 0.5, y: 0.1, z: 1}
   m_Children: []
   m_Father: {fileID: 2580090779649267487}
@@ -63,12 +63,12 @@ CapsuleCollider2D:
   m_GameObject: {fileID: 2580090779195627884}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 6dcd2db850eb5c84e9d1c35a7e5a5223, type: 2}
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.7678149, y: 7.7226334}
-  m_Size: {x: 10.61988, y: 23.07165}
+  m_Offset: {x: 0.7678149, y: -1.4460704}
+  m_Size: {x: 10.619882, y: 4.734263}
   m_Direction: 1
 --- !u!114 &2580090779195627890
 MonoBehaviour:
@@ -83,6 +83,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggeringTag: Player
+  animator: {fileID: 1792397890}
 --- !u!1 &2580090779649267482
 GameObject:
   m_ObjectHideFlags: 0
@@ -94,8 +95,10 @@ GameObject:
   - component: {fileID: 2580090779649267487}
   - component: {fileID: 2580090779649267486}
   - component: {fileID: 2580090779649267481}
-  - component: {fileID: 2580090779649267480}
+  - component: {fileID: 5014792519166725717}
+  - component: {fileID: 1792397890}
   - component: {fileID: 2580090779649267483}
+  - component: {fileID: 1792397891}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -110,14 +113,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2580090779649267482}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0.012120997, w: 0.9999266}
   m_LocalPosition: {x: -21.7023, y: -4.5435, z: -5.8097534}
-  m_LocalScale: {x: 0.05729198, y: 0.050422907, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children:
   - {fileID: 2580090779195627885}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1.389}
 --- !u!212 &2580090779649267486
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -157,7 +160,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9a8c31490ed59c94bbba2bb51b490efe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3e972df74d82559428891c159329cc86, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -176,7 +179,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2580090779649267482}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -189,8 +192,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &2580090779649267480
-CircleCollider2D:
+--- !u!70 &5014792519166725717
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -199,12 +202,31 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.6331559}
-  serializedVersion: 2
-  m_Radius: 8.275812
+  m_Offset: {x: 0.016992433, y: -0.049297776}
+  m_Size: {x: 0.9138266, y: 1.3814007}
+  m_Direction: 0
+--- !u!95 &1792397890
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2580090779649267482}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3f739a26a7410954aa9246b6053896b8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &2580090779649267483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -218,5 +240,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggeringTag: Player
-  lifeField: {fileID: 0}
-  isTrigg: 0
+--- !u!114 &1792397891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2580090779649267482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c68e0941258ec4b8effd18b52941b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0.01
+  animator: {fileID: 1792397890}
+  range: 2

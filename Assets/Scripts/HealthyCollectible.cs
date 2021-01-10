@@ -6,7 +6,7 @@ public class HealthyCollectible : MonoBehaviour{
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
-        	other.gameObject.GetComponent<FieldsChanger>().addCoins(addCoinsOnTrigger);
+        	other.gameObject.GetComponent<FieldsController>().addCoins(addCoinsOnTrigger);
             Destroy(gameObject);
         }
     }

@@ -14,7 +14,6 @@ public class EnemyMover : MonoBehaviour{
     	min_pos = transform.position.x - range;
     	max_pos = transform.position.x + range;
     	isRight = true;
-    	animator.SetBool("is_right", true);
     }
 
     void Update(){
@@ -23,14 +22,12 @@ public class EnemyMover : MonoBehaviour{
     		transform.position += new Vector3(speed, 0, 0);
     		if (transform.position.x >= max_pos) {
     			isRight = false;
-    			animator.SetBool("is_right", false);
     		}
     	}
     	else {
     		transform.position += new Vector3(-1*speed, 0, 0);
     		if (transform.position.x <= min_pos) {
     			isRight = true;
-    			animator.SetBool("is_right", true);
     		}
     	}
 

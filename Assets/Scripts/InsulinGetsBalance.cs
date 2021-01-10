@@ -6,8 +6,7 @@ public class InsulinGetsBalance : MonoBehaviour{
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
-            // sugarField.SetNumber(changeSugarOnTrigger);
-            other.gameObject.GetComponent<FieldsChanger>().setSugar(changeSugarOnTrigger);
+            other.gameObject.GetComponent<FieldsController>().setSugar(changeSugarOnTrigger);
             Destroy(gameObject);
         }
     }

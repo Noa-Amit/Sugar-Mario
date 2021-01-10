@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: be2c7ae51f633274191e2fa6cf3f364c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4595521642165894718
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_0
+  - first:
+      213: -9044365697440481201
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_1
+  - first:
+      213: 6256278707468937209
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_2
+  - first:
+      213: -199168320063281350
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_3
+  - first:
+      213: -3084891020419838761
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_4
+  - first:
+      213: 1943964432235291485
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_5
+  - first:
+      213: -8143880121955883168
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_6
+  - first:
+      213: -965345130864128740
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_7
+  - first:
+      213: -2109534317101777353
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_8
+  - first:
+      213: 3674660270756176771
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_9
+  - first:
+      213: -4404565755518755229
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_10
+  - first:
+      213: 5960975265268491119
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_11
+  - first:
+      213: -1612341603452874654
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_12
+  - first:
+      213: 8444371236009148230
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_13
+  - first:
+      213: -7896873981293180211
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_14
+  - first:
+      213: 7435252676163460119
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_15
+  - first:
+      213: 3725791801837873013
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_16
+  - first:
+      213: 3078687336215230701
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_17
+  - first:
+      213: 5756699797410509821
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_18
+  - first:
+      213: 1398212197712838749
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_19
+  - first:
+      213: -8606476131621456623
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_20
+  - first:
+      213: -6184094784766367492
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_21
+  - first:
+      213: -8399968998126621240
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_22
+  - first:
+      213: 3864144243786847899
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_23
+  - first:
+      213: -733042155380540654
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_24
+  - first:
+      213: 4110358367343774278
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_25
+  - first:
+      213: 6825455682077004656
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_26
+  - first:
+      213: -6154661035271752734
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_27
+  - first:
+      213: -873515068233664416
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_28
+  - first:
+      213: 6086385829540042848
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_29
+  - first:
+      213: 1011177151587861393
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_30
+  - first:
+      213: 3551551705695577690
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_31
+  - first:
+      213: 3910118190520129672
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_32
+  - first:
+      213: -5550692150663611413
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_33
+  - first:
+      213: -1932117161019871637
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_34
+  - first:
+      213: 4328992466299964716
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_35
+  - first:
+      213: 8793200932232106256
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_36
+  - first:
+      213: -867101100508076896
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_37
+  - first:
+      213: 3052719231711788612
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_38
+  - first:
+      213: 3723094890080190390
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_39
+  - first:
+      213: 1157589845086634745
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_40
+  - first:
+      213: -7620608550472268305
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_41
+  - first:
+      213: -2298569853740173482
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_42
+  - first:
+      213: 3518063549563668170
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_43
+  - first:
+      213: 6727979229089135121
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_44
+  - first:
+      213: 967834388272663690
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_45
+  - first:
+      213: 9111500964897554272
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_46
+  - first:
+      213: -3251880150529427268
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_47
+  - first:
+      213: -1516327379020566739
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_48
+  - first:
+      213: 6449927076442375018
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_49
+  - first:
+      213: 3258107160110349759
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_50
+  - first:
+      213: 6721709366060551147
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_51
+  - first:
+      213: -532007307026143478
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_52
+  - first:
+      213: 8531674280736211747
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_53
+  - first:
+      213: -3843007881200371990
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_54
+  - first:
+      213: -6292590813600909500
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_55
+  - first:
+      213: 6134841125251878368
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_56
+  - first:
+      213: 2724334885010879487
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_57
+  - first:
+      213: 3299734366646079613
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_58
+  - first:
+      213: 2087588683234837701
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_59
+  - first:
+      213: 2663938178909216583
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_60
+  - first:
+      213: -7465033359057870919
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_61
+  - first:
+      213: 5253518810597671811
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_62
+  - first:
+      213: 1346111740578450545
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_63
+  - first:
+      213: -1132669422435107096
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_64
+  - first:
+      213: 3425720258715056051
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_65
+  - first:
+      213: -1204911492128970193
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_66
+  - first:
+      213: -8244880652817140966
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_67
+  - first:
+      213: 6872330458047398683
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_68
+  - first:
+      213: -3409831671454436975
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_69
+  - first:
+      213: -7768739729437362225
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_70
+  - first:
+      213: 3090164494802779330
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_71
+  - first:
+      213: 4102908236051941565
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_72
+  - first:
+      213: -5460288108266435113
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_73
+  - first:
+      213: 2776248696464315996
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_74
+  - first:
+      213: 6494588761813185398
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_75
+  - first:
+      213: 2876794732136532933
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_76
+  - first:
+      213: -5350112604928141659
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_77
+  - first:
+      213: -4017947349266756189
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_78
+  - first:
+      213: 6969179430381229834
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_79
+  - first:
+      213: -2370687738721905512
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_80
+  - first:
+      213: -2419079618215038805
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_81
+  - first:
+      213: -3394355762985120997
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_82
+  - first:
+      213: 1222261057838334368
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_83
+  - first:
+      213: -826864565607313519
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_84
+  - first:
+      213: -8771838623900488945
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_85
+  - first:
+      213: 4842401737397132623
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_86
+  - first:
+      213: -7187281363585997995
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_87
+  - first:
+      213: -7005442440052286186
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_88
+  - first:
+      213: -3447246535840607490
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_89
+  - first:
+      213: 1696364770983767968
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_90
+  - first:
+      213: 4177382780494670920
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_91
+  - first:
+      213: 3413239559112605433
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_92
+  - first:
+      213: 8814326996810707106
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_93
+  - first:
+      213: 4120064120624786456
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_94
+  - first:
+      213: -5931368424801249349
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_95
+  - first:
+      213: -7933762334706071179
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_96
+  - first:
+      213: -3288117704059265672
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_97
+  - first:
+      213: -4788013076836292981
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_98
+  - first:
+      213: 6644878126254071727
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_99
+  - first:
+      213: 233536979716110590
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_100
+  - first:
+      213: -3514920575940269650
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_101
+  - first:
+      213: 7253215269965947422
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_102
+  - first:
+      213: -8282995688086220360
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_103
+  - first:
+      213: -7465153632290486675
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_104
+  - first:
+      213: -8154880754616670288
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_105
+  - first:
+      213: 1528682595910070427
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_106
+  - first:
+      213: 542354944271590308
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_107
+  - first:
+      213: -7802896282362030330
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_108
+  - first:
+      213: -1999036712368269459
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_109
+  - first:
+      213: -4182522279114597079
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_110
+  - first:
+      213: -1982312805106692959
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_111
+  - first:
+      213: -2903200163688059287
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_112
+  - first:
+      213: 7525998196864375865
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_113
+  - first:
+      213: -3640148406134766193
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_114
+  - first:
+      213: -8890865693226266417
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_115
+  - first:
+      213: 1781276682140336333
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_116
+  - first:
+      213: 8040796915056315460
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_117
+  - first:
+      213: -8904203433699226817
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_118
+  - first:
+      213: -7372218414545796247
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_119
+  - first:
+      213: 412415935950044792
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_120
+  - first:
+      213: 2293480041034272637
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_121
+  - first:
+      213: 1228047900003748906
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_122
+  - first:
+      213: 1202798671713175193
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_123
+  - first:
+      213: -4743595027239318370
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_124
+  - first:
+      213: -6675911557426689960
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_125
+  - first:
+      213: -5495745786971946670
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_126
+  - first:
+      213: 1255225753253163354
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_127
+  - first:
+      213: -6617079732457369247
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_128
+  - first:
+      213: -1940228680596859137
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_129
+  - first:
+      213: 6379097905132482334
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_130
+  - first:
+      213: 3888813858503973837
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_131
+  - first:
+      213: -1236541666349422049
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_132
+  - first:
+      213: -6733273530770500003
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_133
+  - first:
+      213: 733885665794336417
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_134
+  - first:
+      213: 7092774492583451194
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_135
+  - first:
+      213: 4332296689299801176
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_136
+  - first:
+      213: -5149401771655121124
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_137
+  - first:
+      213: 1522509658065034225
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_138
+  - first:
+      213: -3477920401106639137
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_139
+  - first:
+      213: -5802662517934022701
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_140
+  - first:
+      213: 6538961483146424983
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_141
+  - first:
+      213: -2434757271474951782
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_142
+  - first:
+      213: -2194735582789903563
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_143
+  - first:
+      213: -2885419612010319753
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_144
+  - first:
+      213: 9183854029358136479
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_145
+  - first:
+      213: 1712659347306261921
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_146
+  - first:
+      213: 2616084748380490601
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_147
+  - first:
+      213: -4999502919170357175
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_148
+  - first:
+      213: -8272025049201872889
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_149
+  - first:
+      213: 2383201481661674293
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_150
+  - first:
+      213: 2726964487973067487
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_151
+  - first:
+      213: 3838670099772498965
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_152
+  - first:
+      213: -2296015703095063897
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_153
+  - first:
+      213: 4659693254073028089
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_154
+  - first:
+      213: 2314791741398784305
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_155
+  - first:
+      213: 7193530398757908450
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_156
+  - first:
+      213: 72688010601000613
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_157
+  - first:
+      213: -1280949050933158750
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_158
+  - first:
+      213: 654911403277921062
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_159
+  - first:
+      213: 6515999376860712235
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_160
+  - first:
+      213: 8791136964162368624
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_161
+  - first:
+      213: 3235718541517173698
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_162
+  - first:
+      213: -2297966183586579475
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_163
+  - first:
+      213: -2942918129386998316
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_164
+  - first:
+      213: 8164679310541034011
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_165
+  - first:
+      213: 2187195011270389632
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_166
+  - first:
+      213: 7044927780606647630
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_167
+  - first:
+      213: 5208155126728940108
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_168
+  - first:
+      213: -4594918439524994995
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_169
+  - first:
+      213: 5221615498258652065
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_170
+  - first:
+      213: 6164988515053499220
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_171
+  - first:
+      213: 8194506497522581214
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_172
+  - first:
+      213: 3567076221120683483
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_173
+  - first:
+      213: -4736337368689272769
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_174
+  - first:
+      213: 3832812399053309271
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_175
+  - first:
+      213: 3964797283322766816
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_176
+  - first:
+      213: -6436376428277373420
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_177
+  - first:
+      213: 7289723471054172995
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_178
+  - first:
+      213: 2787285132233105056
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_179
+  - first:
+      213: -513699528748761071
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_180
+  - first:
+      213: 8927212406173043941
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_181
+  - first:
+      213: 3462221317619667880
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_182
+  - first:
+      213: -4036013093140382176
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_183
+  - first:
+      213: -3884444588595870793
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_184
+  - first:
+      213: -8636983127343931247
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_185
+  - first:
+      213: 4627418320152099124
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_186
+  - first:
+      213: 9185663803160532864
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_187
+  - first:
+      213: 4543110830643761066
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_188
+  - first:
+      213: -1046029035250505581
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_189
+  - first:
+      213: -4269037289622642536
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_190
+  - first:
+      213: -7803431792247232931
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_191
+  - first:
+      213: 7753139992716059805
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_192
+  - first:
+      213: 2466423984534556366
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_193
+  - first:
+      213: 487218668738079244
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_194
+  - first:
+      213: 4644942608908627951
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_195
+  - first:
+      213: -4305314146357812639
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_196
+  - first:
+      213: -8211390575398995356
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_197
+  - first:
+      213: 3307977530308445106
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_198
+  - first:
+      213: 6345142834203060904
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_199
+  - first:
+      213: 6676267254077027031
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_200
+  - first:
+      213: 2329047073997080379
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_201
+  - first:
+      213: 2110564429377502992
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_202
+  - first:
+      213: -3450907518426738519
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_203
+  - first:
+      213: -7045949794056889192
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_204
+  - first:
+      213: -782931104167155133
+    second: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_205
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c105112a6d6930c0800000000000000
+      internalID: -4595521642165894718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4005593155fb7280800000000000000
+      internalID: -9044365697440481201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a6865654c2d650800000000000000
+      internalID: 6256278707468937209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ed18d7796c3df0800000000000000
+      internalID: -199168320063281350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc451d16f34035d0800000000000000
+      internalID: -3084891020419838761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e06ff9595afa10800000000000000
+      internalID: 1943964432235291485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067647d5d202bfe80800000000000000
+      internalID: -8143880121955883168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc035d7b76a92f0800000000000000
+      internalID: -965345130864128740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef6a327bd69b2e0800000000000000
+      internalID: -2109534317101777353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a9ac0c040ff230800000000000000
+      internalID: 3674660270756176771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e547028c6dfd2c0800000000000000
+      internalID: -4404565755518755229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e731db63a9b250800000000000000
+      internalID: 5960975265268491119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609b9daadfcf99e0800000000000000
+      internalID: -1612341603452874654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff9d126ee603570800000000000000
+      internalID: 8444371236009148230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcacef414faa86290800000000000000
+      internalID: -7896873981293180211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cdef15ae25f2760800000000000000
+      internalID: 7435252676163460119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577eb9757eba4b330800000000000000
+      internalID: 3725791801837873013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83a9912d1b9ba20800000000000000
+      internalID: 3078687336215230701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3773727f7e3ef40800000000000000
+      internalID: 5756699797410509821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ca45f592776310800000000000000
+      internalID: 1398212197712838749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11533deae87af8880800000000000000
+      internalID: -8606476131621456623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8a7a8de8ead2aa0800000000000000
+      internalID: -6184094784766367492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd6e5e73b05d6b80800000000000000
+      internalID: -8399968998126621240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-concept-art-sprite-64b6004d2f03684861e9f766a528cbd0_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9619c377b230a530800000000000000
+      internalID: 3864144243786847899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
