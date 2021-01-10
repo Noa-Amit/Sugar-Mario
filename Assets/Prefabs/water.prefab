@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2430567238645123193}
   - component: {fileID: 8622226536981843847}
-  - component: {fileID: 3178892737181974816}
   - component: {fileID: 3403135541276994601}
   - component: {fileID: 5016609606817304137}
+  - component: {fileID: 7360646676691060493}
   m_Layer: 0
   m_Name: water
   m_TagString: Untagged
@@ -28,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9057472044168982929}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.386, y: -2.75, z: 2.8758605}
-  m_LocalScale: {x: 0.400405, y: 0.4094023, z: 1}
+  m_LocalPosition: {x: -0.61, y: -3.299, z: 2.8758605}
+  m_LocalScale: {x: 0.26373422, y: 0.2649925, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -84,20 +84,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &3178892737181974816
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9057472044168982929}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b1e862dd999da534db1c11ae1974b21b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  triggeringTag: Player
-  changeSugarOnTrigger: 0
 --- !u!50 &3403135541276994601
 Rigidbody2D:
   serializedVersion: 4
@@ -135,3 +121,17 @@ CapsuleCollider2D:
   m_Offset: {x: 0.014986124, y: 0.043937724}
   m_Size: {x: 1.1764631, y: 3.7869303}
   m_Direction: 0
+--- !u!114 &7360646676691060493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9057472044168982929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b7a5ff6f642904582d9de6854377c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggeringTag: Player
+  addCoinsOnTrigger: 15
