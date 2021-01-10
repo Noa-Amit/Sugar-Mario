@@ -30,25 +30,30 @@ public class KeyboardMover : MonoBehaviour {
     }
 
     private void FixedUpdate() {
+        // update x
         float x = Input.GetAxis("Horizontal");
+        velocity.x = x * _speed;
 
+        // change direction
         if(x < 0) GetComponent<SpriteRenderer>().flipX = false;
         else GetComponent<SpriteRenderer>().flipX = true;
 
-        velocity.x = x * _speed;
-
-        if(Input.GetKeyDown(KeyCode.Space)&&td.IsTouching()){
+        // jump
+        if(Input.GetAxis("Jump")!=0 && td.IsTouching()){
             rb.AddForce(new Vector2(0, _jump_pulse), ForceMode2D.Impulse);
+            GetComponent<FieldsChanger>().addToSugar(lostOnJump);
         }
 
-
+        // update animation
         animator.SetFloat("speed", Mathf.Abs(x));
         animator.SetBool("isJumping", !td.IsTouching());
         
+        // update position
         velocity = transform.TransformDirection(velocity);
         transform.position += velocity * Time.deltaTime;
 
-        GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
+        // update sugar
+        if(x != 0) GetComponent<FieldsChanger>().addToSugar(lostOnWalk);
     }
     
 }

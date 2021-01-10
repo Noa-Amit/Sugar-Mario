@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Flashing : MonoBehaviour {
-	[SerializeField] float flashLength;
+	private float flashLength =1;
     private bool flashActive;
     private float flashCounter;
     private SpriteRenderer playerSprite;

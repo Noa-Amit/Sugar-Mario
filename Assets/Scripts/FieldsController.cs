@@ -5,19 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class FieldsChanger : MonoBehaviour
 {
-    [SerializeField] string enemyTag;
     [SerializeField] SugarField sugarField;
     [SerializeField] LifeField lifeField;
+    [SerializeField] CoinField coinField;
     [SerializeField] int timeToPower;
     private bool isSuperPow = false;
 
-    //flashing
-    private bool flashActive;
-    public float flashLength;
-    private float flashCounter;
-    private SpriteRenderer playerSprite;
-
-//**** sugar and life changer ****
+//**** sugar changer ****
     public void addToSugar(double value){
         if(!isSuperPow){
             sugarField.AddToNumber(value);
@@ -30,9 +24,16 @@ public class FieldsChanger : MonoBehaviour
             validSugar();
         }
     }
+    private void validSugar(){
+        if(!sugarField.isValid()){ 
+            subLife();
+            sugarField.Init();
+        }
+    }
+//**** life changer ****
     public void subLife(){
         if(!isSuperPow){
-            flashPlayer();
+            flashing(this.gameObject);
             lifeField.SubLife();
             validLife();
         }
@@ -40,16 +41,14 @@ public class FieldsChanger : MonoBehaviour
     public void addLife(){
         lifeField.AddLife();
     }
-    private void validSugar(){
-        if(!sugarField.isValid()){ 
-            subLife();
-            sugarField.Init();
-        }
-    }
     private void validLife(){
         if (lifeField.GetLife() == 0) { //check if out of life
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);  
         }
+    }
+//**** coins changer ****
+    public void addCoins(int coins){
+        coinField.AddCoins(coins);
     }
 
 //**** super power changer ****
@@ -64,28 +63,7 @@ public class FieldsChanger : MonoBehaviour
         transform.GetChild(0).gameObject.SetActive(false);
     }
 //**** flashing *****
-    private void flashPlayer(){
-        flashActive = true;
-        flashCounter = flashLength;
-    }
-
-    void Start(){
-        playerSprite = GetComponent<SpriteRenderer>();
-    }
-
-    void Update(){
-        if(flashActive){
-            if(flashCounter > flashLength * .66f){
-                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
-            } else if(flashCounter > flashLength * .33f){
-                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
-            } else if(flashCounter > 0f) {
-                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
-            } else {
-                playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
-                flashActive = false;
-            }
-            flashCounter -= Time.deltaTime;
-        }
+    private void flashing(GameObject obj){
+        GetComponent<Flashing>().flashObject(obj);
     }
 }
