@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LifeCollectible : MonoBehaviour
 {
-    [SerializeField] string triggeringTag;
+    [SerializeField] string triggeringTag = null;
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {

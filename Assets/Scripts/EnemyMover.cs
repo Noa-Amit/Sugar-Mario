@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyMover : MonoBehaviour{
-    [SerializeField] float speed;
-    [SerializeField] Animator animator;
-    [SerializeField] float range;
+    [SerializeField] float speed =0f;
+    [SerializeField] float range = 0f;
     private double min_pos;
     private double max_pos;
     private bool isRight;

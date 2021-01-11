@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class InsulinGetsSuperPowers : MonoBehaviour{
-	[SerializeField] string triggeringTag;
+	[SerializeField] string triggeringTag = null;
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {

@@ -6,10 +6,9 @@
 [RequireComponent(typeof(TouchDetector))]
 public class KeyboardMover : MonoBehaviour {
     //serialize
-    public Animator animator;
+    public Animator animator = null;
     [SerializeField] float _speed = 5f;
-    [SerializeField] float _gravity = 9.81f;
-    [SerializeField] float _jump_pulse;
+    [SerializeField] float _jump_pulse = 0;
 
     [Tooltip("How many sugar mario lost in walk")]
     [SerializeField] double lostOnWalk = -0.02;

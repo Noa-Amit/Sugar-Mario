@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyTrigger : MonoBehaviour
 {
-    [SerializeField] string triggeringTag;
+    [SerializeField] string triggeringTag = null;
     private bool isTriggBody = false;
 
     private void OnCollisionEnter2D(Collision2D other) {

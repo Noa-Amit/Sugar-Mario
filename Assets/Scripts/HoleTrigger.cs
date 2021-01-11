@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class HoleTrigger : MonoBehaviour
 {
-    [SerializeField] string triggeringTag;
+    [SerializeField] string triggeringTag = null;
+    
     private void OnCollisionEnter2D(Collision2D other) {
         if (other.gameObject.tag == triggeringTag) {
         	Vector3 pos = other.gameObject.transform.position;

@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class DestroyEnemy : MonoBehaviour
 {
-    [SerializeField] string triggeringTag;
-    [SerializeField] Animator animator;
+    [SerializeField] string triggeringTag = null;
+    [SerializeField] Animator animator = null;
     private GameObject enemy;
     private bool isTriggHead;
 

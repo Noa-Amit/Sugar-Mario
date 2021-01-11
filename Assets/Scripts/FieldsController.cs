@@ -5,10 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class FieldsController : MonoBehaviour
 {
-    [SerializeField] SugarField sugarField;
-    [SerializeField] LifeField lifeField;
-    [SerializeField] CoinField coinField;
-    [SerializeField] int timeToPower;
+    [SerializeField] SugarField sugarField = null;
+    [SerializeField] LifeField lifeField = null;
+    [SerializeField] CoinField coinField = null;
+    [SerializeField] int timeToPower = 0;
     private bool isSuperPow = false;
 
 //**** sugar changer ****
