@@ -2,11 +2,12 @@
 
 public class InsulinGetsBalance : MonoBehaviour{
     [SerializeField] string triggeringTag = null;
-    private double changeSugarOnTrigger = 100;
+    [SerializeField] double changeSugarOnTrigger = -10;
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag) {
-            other.gameObject.GetComponent<FieldsController>().setSugar(changeSugarOnTrigger);
+            FieldsController fc = other.gameObject.GetComponent<FieldsController>();
+            fc.addToSugar(changeSugarOnTrigger);
             Destroy(gameObject);
         }
     }

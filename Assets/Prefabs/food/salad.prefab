@@ -135,3 +135,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   triggeringTag: Player
   addCoinsOnTrigger: 10
+  floatingCoin: {fileID: 6669074879857096332, guid: 93487119c2e8c584092be97ee1e93092,
+    type: 3}

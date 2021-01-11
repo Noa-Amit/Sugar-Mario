@@ -18,6 +18,19 @@ public class FieldsController : MonoBehaviour
             validSugar();
         }
     }
+    public void addSlowToSugar(double value){
+        int timeToAdd = 10;
+        if(!isSuperPow){
+            for(int i=0; i<timeToAdd; i++){
+                StartCoroutine(check(value));
+            }
+        }
+    }
+    private IEnumerator check (double value){
+        Debug.Log("add");
+        addToSugar(value/10);
+        yield return new WaitForSecondsRealtime(100);
+    }
     public void setSugar(double value){
         if(!isSuperPow){
             sugarField.SetNumber(value);
@@ -43,7 +56,8 @@ public class FieldsController : MonoBehaviour
     }
     private void validLife(){
         if (lifeField.GetLife() == 0) { //check if out of life
-                SceneManager.LoadScene("GameOver");  
+            PlayerPrefs.SetInt("coins", 0);
+            SceneManager.LoadScene("GameOver");  
         }
     }
 //**** coins changer ****

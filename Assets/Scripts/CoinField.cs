@@ -15,12 +15,15 @@ public class CoinField : MonoBehaviour {
 
     void Start() {
     	textField = GetComponent<TextMeshPro>();
-        
+    	coins = PlayerPrefs.GetInt("coins");
+    	textField.text = coins.ToString();
     }
 
     public void AddCoins(int coinsNum) {
         this.coins += coinsNum;
         this.textField.text = coins.ToString();
+        PlayerPrefs.SetInt("coins",coins);
+        PlayerPrefs.Save();
     }
 
 }
