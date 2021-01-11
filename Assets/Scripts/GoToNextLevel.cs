@@ -8,13 +8,21 @@ public class GoToNextLevel : MonoBehaviour {
 
     [SerializeField] string triggingTag = null;
 
-    private void OnTriggerEnter2D(Collider2D collision) {
-        if(triggingTag == collision.tag){
-            NextLevel();
+    private void OnTriggerEnter2D(Collider2D other) {
+        if(triggingTag == other.gameObject.tag){
+            StartCoroutine(waitForSecond());
         }
+    }
+    private IEnumerator waitForSecond(){
+        yield return new WaitForSecondsRealtime(1);
+        NextLevel();
     }
 
     public void NextLevel(){
     	SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);  
+    }
+
+    public void ToLevel(string name){
+    	SceneManager.LoadScene(name);  
     }
 }

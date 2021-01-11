@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class SoundController : MonoBehaviour {
    [SerializeField] GameObject music = null;
-   bool isOn;
    [SerializeField] Sprite imgOn, imgOff;
+   private bool isOn;
    
    void Start(){ isOn = true;}
 

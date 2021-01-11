@@ -213,7 +213,7 @@ Rigidbody2D:
   m_Mass: 2
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 2
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -249,7 +249,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 1635968090394320932}
   _speed: 10
-  _gravity: 9.81
   _jump_pulse: 10
   lostOnWalk: -0.02
   lostOnJump: -0.03
