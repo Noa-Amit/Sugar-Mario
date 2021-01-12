@@ -80,4 +80,10 @@ public class FieldsController : MonoBehaviour
     private void flashing(GameObject obj){
         GetComponent<Flashing>().flashObject(obj);
     }
+//**** change position after get hurt *****
+    public void changePosAfterHurt(Vector3 v){
+        if(!isSuperPow){
+            transform.position += v;
+        }
+    }
 }

@@ -9,9 +9,10 @@ public class EnemyTrigger : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other) {
         if (other.gameObject.tag == triggeringTag && !transform.GetChild(0).gameObject.GetComponent<DestroyEnemy>().GetTriggHead()) {
-            other.gameObject.transform.position += new Vector3(-3f,0,0);
+            FieldsController fc = other.gameObject.GetComponent<FieldsController>();
+            fc.changePosAfterHurt(new Vector3(-3f,0,0));
             isTriggBody = true;
-            other.gameObject.GetComponent<FieldsController>().subLife();
+            fc.subLife();
         }
     }
 
