@@ -684,7 +684,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mario
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1635968090394321368, guid: d50d520e573feca40b3baacf5579e8f0, type: 3}
+    - {fileID: 1635968090394321369, guid: d50d520e573feca40b3baacf5579e8f0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d50d520e573feca40b3baacf5579e8f0, type: 3}
 --- !u!1001 &65870192
 PrefabInstance:
@@ -2635,6 +2637,7 @@ GameObject:
   - component: {fileID: 844914742}
   - component: {fileID: 844914741}
   - component: {fileID: 844914740}
+  - component: {fileID: 844914744}
   m_Layer: 5
   m_Name: NextButton
   m_TagString: Untagged
@@ -2766,6 +2769,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 844914738}
   m_CullTransparentMesh: 0
+--- !u!114 &844914744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844914738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6c19b670d69774bbf1da479d8dc35a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggingTag: 
 --- !u!1 &855806094
 GameObject:
   m_ObjectHideFlags: 0
@@ -4098,14 +4114,14 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1103042306}
-        m_MethodName: Skip
+        m_MethodName: NextLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Level 1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1103042304
@@ -4154,9 +4170,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1103042301}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed61f8ab8e076ee44ade2d803b3b0d03, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a6c19b670d69774bbf1da479d8dc35a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  triggingTag: 
 --- !u!1001 &1104705084
 PrefabInstance:
   m_ObjectHideFlags: 0

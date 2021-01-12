@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class SoundController : MonoBehaviour {
    [SerializeField] GameObject music = null;
-   [SerializeField] Sprite imgOn, imgOff;
+   [SerializeField] Sprite imgOn, imgOff = null;
    private bool isOn;
    
    void Start(){ isOn = true;}

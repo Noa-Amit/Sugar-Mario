@@ -28,7 +28,7 @@ public class NextText : MonoBehaviour {
         string boldName = "Bold" + (textNum);
         Debug.Log(name);
         Debug.Log(boldName);
-        if (textNum < 11)
+        if (textNum < 9)
         {
             currentText = bubble.transform.Find(name).gameObject;
             currentBold = bubble.transform.Find(boldName).gameObject;

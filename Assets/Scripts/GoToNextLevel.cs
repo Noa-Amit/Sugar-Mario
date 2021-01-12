@@ -14,12 +14,12 @@ public class GoToNextLevel : MonoBehaviour {
         }
     }
     private IEnumerator waitForSecond(){
-        yield return new WaitForSecondsRealtime(1);
+        yield return new WaitForSecondsRealtime(0.5f);
         NextLevel();
     }
 
     public void NextLevel(){
-    	SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);  
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);  
     }
 
     public void ToLevel(string name){
